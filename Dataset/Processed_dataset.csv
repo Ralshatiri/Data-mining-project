@@ -1,0 +1,910 @@
+Age,Gender,Family_Diabetes,highBP,PhysicallyActive,BMI,Smoking,Alcohol,Sleep,SoundSleep,RegularMedicine,JunkFood,Stress,BPLevel,Pregancies,Pdiabetes,UriationFreq,Diabetic
+50-59,Male,no,yes,one hr or more,0.8,no,no,0.5714285714285714,0.5454545454545454,no,occasionally,sometimes,high,0.0,0,not much,no
+50-59,Male,no,yes,less than half an hr,0.43333333333333335,no,no,0.5714285714285714,0.5454545454545454,yes,very often,sometimes,normal,0.0,0,not much,no
+40-49,Male,no,no,one hr or more,0.30000000000000004,no,no,0.2857142857142857,0.5454545454545454,no,occasionally,sometimes,normal,0.0,0,not much,no
+50-59,Male,no,no,one hr or more,0.2666666666666666,no,no,0.5714285714285714,0.5454545454545454,no,occasionally,sometimes,normal,0.0,0,not much,no
+40-49,Male,no,no,less than half an hr,0.4,no,no,0.5714285714285714,0.7272727272727273,no,occasionally,sometimes,normal,0.0,0,not much,no
+40-49,Male,no,yes,none,0.19999999999999996,no,yes,0.857142857142857,0.9090909090909092,no,occasionally,sometimes,high,0.0,0,not much,yes
+less than 40,Male,no,no,one hr or more,0.30000000000000004,no,no,0.5714285714285714,0.7272727272727273,no,occasionally,sometimes,normal,0.0,0,not much,no
+less than 40,Male,no,no,less than half an hr,0.16666666666666663,no,no,0.4285714285714286,0.6363636363636364,yes,occasionally,sometimes,low,0.0,0,not much,no
+40-49,Male,yes,no,one hr or more,0.2666666666666666,no,no,0.4285714285714286,0.6363636363636364,no,occasionally,sometimes,normal,0.0,0,not much,no
+less than 40,Male,no,no,more than half an hr,0.16666666666666663,no,no,0.5714285714285714,0.7272727272727273,o,occasionally,sometimes,normal,0.0,0,not much,no
+less than 40,Male,no,no,none,0.16666666666666663,no,no,0.4285714285714286,0.6363636363636364,no,occasionally,not at all,normal,0.0,0,not much,no
+40-49,Male,no,no,less than half an hr,0.3666666666666667,yes,no,0.5714285714285714,0.6363636363636364,no,occasionally,sometimes,normal,0.0,0,not much,no
+less than 40,Female,no,no,less than half an hr,0.19999999999999996,no,no,0.2857142857142857,0.5454545454545454,no,occasionally,sometimes,normal,0.25,0,not much,no
+less than 40,Female,no,no,one hr or more,0.23333333333333328,no,no,0.5714285714285714,0.6363636363636364,no,occasionally,very often,normal,0.5,0,not much,no
+less than 40,Male,no,no,one hr or more,0.0,no,no,0.4285714285714286,0.6363636363636364,no,occasionally,very often,normal,0.0,0,not much,no
+40-49,Female,yes,no,none,0.6333333333333333,no,no,0.2857142857142857,0.5454545454545454,no,occasionally,sometimes,normal,0.75,0,not much,no
+50-59,Male,yes,no,more than half an hr,0.23333333333333328,no,no,0.4285714285714286,0.5454545454545454,no,occasionally,sometimes,normal,0.0,0,not much,no
+less than 40,Female,no,no,more than half an hr,0.30000000000000004,no,no,0.2857142857142857,0.5454545454545454,no,occasionally,sometimes,normal,0.5,0,quite often,no
+40-49,Male,yes,no,one hr or more,0.30000000000000004,no,no,1.0,1.0,no,occasionally,sometimes,normal,0.0,0,not much,no
+less than 40,Male,yes,no,one hr or more,0.23333333333333328,no,no,0.5714285714285714,0.5454545454545454,no,often,not at all,normal,0.0,0,not much,no
+less than 40,Male,yes,no,one hr or more,0.5,no,yes,0.7142857142857142,0.7272727272727273,no,occasionally,sometimes,normal,0.0,0,not much,no
+less than 40,Female,yes,no,one hr or more,0.30000000000000004,no,no,0.0,0.36363636363636365,yes,often,always,normal,0.75,0,quite often,yes
+less than 40,Female,yes,no,one hr or more,0.30000000000000004,no,no,0.0,0.36363636363636365,yes,often,always,normal,0.75,0,not much,yes
+less than 40,Female,no,no,one hr or more,0.16666666666666663,no,no,0.7142857142857142,0.8181818181818182,no,occasionally,sometimes,normal,0.5,0,not much,no
+less than 40,Male,yes,no,more than half an hr,0.30000000000000004,yes,no,0.5714285714285714,0.7272727272727273,no,occasionally,sometimes,normal,0.0,0,not much,no
+less than 40,Female,no,no,more than half an hr,0.19999999999999996,no,no,0.4285714285714286,0.6363636363636364,no,often,not at all,normal,0.0,0,not much,no
+less than 40,Female,no,no,one hr or more,0.16666666666666663,no,no,0.2857142857142857,0.5454545454545454,no,very often,not at all,normal,0.0,0,not much,no
+50-59,Male,no,no,one hr or more,0.4,no,no,0.4285714285714286,0.6363636363636364,no,very often,not at all,normal,0.0,0,not much,no
+40-49,Male,yes,no,none,0.4666666666666667,no,no,0.2857142857142857,0.5454545454545454,no,occasionally,not at all,normal,0.0,0,not much,no
+60 or older,Female,no,no,none,0.09999999999999998,no,no,0.2857142857142857,0.5454545454545454,yes,occasionally,sometimes,normal,0.75,0,quite often,yes
+less than 40,Female,no,no,one hr or more,0.5666666666666667,no,no,0.5714285714285714,0.7272727272727273,yes,occasionally,sometimes,normal,0.75,0,not much,no
+40-49,Female,no,no,one hr or more,0.19999999999999996,no,no,0.4285714285714286,0.6363636363636364,no,occasionally,sometimes,normal,0.75,0,quite often,no
+60 or older,Male,no,yes,none,0.3666666666666667,no,no,0.0,0.36363636363636365,yes,occasionally,not at all,high,0.0,0,not much,yes
+60 or older,Female,yes,no,more than half an hr,0.5333333333333332,no,no,0.5714285714285714,0.6363636363636364,yes,occasionally,not at all,normal,0.75,0,not much,no
+60 or older,Female,yes,no,none,0.3666666666666667,no,no,0.4285714285714286,0.6363636363636364,no,occasionally,sometimes,normal,0.75,0,not much,no
+60 or older,Male,yes,no,none,0.19999999999999996,no,no,0.5714285714285714,0.7272727272727273,yes,occasionally,not at all,normal,0.0,0,not much,yes
+40-49,Female,yes,no,more than half an hr,0.43333333333333335,no,no,0.5714285714285714,0.5454545454545454,yes,occasionally,always,normal,0.5,0,not much,yes
+50-59,Male,no,yes,one hr or more,0.30000000000000004,no,no,0.5714285714285714,0.7272727272727273,yes,occasionally,sometimes,high,0.0,0,not much,yes
+40-49,Male,no,yes,more than half an hr,0.4,no,no,0.5714285714285714,0.7272727272727273,yes,occasionally,not at all,high,0.0,0,not much,yes
+40-49,Male,no,no,more than half an hr,0.19999999999999996,no,no,0.2857142857142857,0.5454545454545454,yes,occasionally,sometimes,normal,0.0,0,not much,yes
+60 or older,Male,no,no,none,0.4,no,no,0.2857142857142857,0.5454545454545454,no,occasionally,sometimes,normal,0.0,0,not much,no
+60 or older,Male,no,no,none,0.30000000000000004,no,no,0.2857142857142857,0.5454545454545454,no,occasionally,sometimes,normal,0.0,0,not much,no
+less than 40,Male,yes,no,more than half an hr,0.7,no,no,0.2857142857142857,0.36363636363636365,no,occasionally,sometimes,normal,0.0,0,not much,no
+less than 40,Male,yes,no,less than half an hr,0.19999999999999996,no,no,0.2857142857142857,0.5454545454545454,no,occasionally,not at all,normal,0.0,0,not much,no
+40-49,Male,yes,no,less than half an hr,0.23333333333333328,no,no,0.2857142857142857,0.5454545454545454,yes,occasionally,sometimes,normal,0.0,0,not much,no
+40-49,Male,yes,no,less than half an hr,0.19999999999999996,no,no,0.2857142857142857,0.5454545454545454,no,occasionally,sometimes,low,0.0,0,not much,no
+50-59,Male,yes,no,one hr or more,0.7666666666666666,no,yes,0.5714285714285714,0.5454545454545454,yes,occasionally,very often,normal,0.0,0,not much,yes
+50-59,Female,yes,yes,more than half an hr,0.8333333333333333,no,no,0.7142857142857142,0.4545454545454546,yes,very often,sometimes,high,0.5,1,not much,yes
+60 or older,Male,yes,no,none,0.6666666666666667,no,no,0.1428571428571428,0.4545454545454546,no,occasionally,sometimes,high,0.0,0,quite often,yes
+60 or older,Female,yes,yes,none,0.30000000000000004,no,no,0.0,0.36363636363636365,yes,occasionally,always,high,0.75,0,quite often,yes
+60 or older,Male,no,no,none,0.09999999999999998,no,no,0.1428571428571428,0.4545454545454546,no,occasionally,sometimes,normal,0.0,0,not much,no
+40-49,Male,no,no,more than half an hr,0.2666666666666666,no,no,0.4285714285714286,0.36363636363636365,no,often,sometimes,normal,0.5,0,not much,no
+60 or older,Male,no,yes,less than half an hr,0.1333333333333333,no,yes,0.2857142857142857,0.5454545454545454,yes,often,sometimes,high,0.25,0,not much,no
+less than 40,Male,no,no,more than half an hr,0.3666666666666667,yes,yes,0.5714285714285714,0.5454545454545454,no,occasionally,sometimes,normal,0.0,0,not much,no
+less than 40,Male,no,no,more than half an hr,0.5,yes,yes,0.1428571428571428,0.4545454545454546,yes,often,not at all,normal,0.25,0,not much,no
+60 or older,Female,no,yes,less than half an hr,0.4,no,no,0.2857142857142857,0.5454545454545454,yes,occasionally,always,high,0.0,0,quite often,yes
+less than 40,Male,no,no,none,0.09999999999999998,yes,yes,0.4285714285714286,0.5454545454545454,no,occasionally,very often,normal,0.0,0,not much,no
+less than 40,Male,no,no,less than half an hr,0.4666666666666667,yes,yes,0.2857142857142857,0.4545454545454546,yes,often,very often,normal,0.0,0,not much,no
+50-59,Male,no,yes,less than half an hr,0.1333333333333333,no,yes,0.2857142857142857,0.5454545454545454,yes,occasionally,very often,high,0.0,0,not much,no
+50-59,Female,yes,no,none,0.19999999999999996,no,no,0.5714285714285714,0.7272727272727273,yes,occasionally,very often,normal,0.0,0,quite often,yes
+less than 40,Male,no,no,none,0.30000000000000004,no,no,0.857142857142857,0.9090909090909092,no,occasionally,not at all,normal,0.0,0,not much,no
+60 or older,Male,no,no,none,0.5333333333333332,no,no,0.2857142857142857,0.5454545454545454,no,occasionally,very often,normal,0.0,0,not much,no
+less than 40,Male,yes,no,more than half an hr,0.23333333333333328,no,no,0.5714285714285714,0.7272727272727273,no,occasionally,very often,normal,0.0,0,not much,no
+less than 40,Male,yes,no,none,0.1333333333333333,no,yes,0.5714285714285714,0.7272727272727273,no,occasionally,sometimes,normal,0.0,0,not much,no
+50-59,Male,no,no,one hr or more,0.4,no,no,0.2857142857142857,0.36363636363636365,no,occasionally,very often,normal,0.0,0,not much,no
+40-49,Male,yes,yes,less than half an hr,0.3666666666666667,no,no,0.857142857142857,0.5454545454545454,yes,occasionally,very often,high,0.0,0,quite often,yes
+50-59,Female,yes,no,none,0.19999999999999996,no,no,0.5714285714285714,0.4545454545454546,yes,occasionally,sometimes,normal,0.0,0,not much,yes
+60 or older,Male,yes,no,one hr or more,0.3666666666666667,no,no,0.2857142857142857,0.4545454545454546,yes,occasionally,not at all,normal,0.0,0,not much,yes
+50-59,Male,yes,no,one hr or more,0.2666666666666666,yes,yes,0.1428571428571428,0.36363636363636365,yes,occasionally,very often,normal,0.0,0,not much,yes
+less than 40,Male,yes,yes,one hr or more,0.3666666666666667,yes,yes,0.1428571428571428,0.36363636363636365,yes,often,not at all,high,0.0,0,not much,yes
+60 or older,Female,yes,yes,less than half an hr,0.09999999999999998,no,no,0.0,0.2727272727272727,yes,occasionally,sometimes,high,0.0,0,not much,yes
+60 or older,Female,yes,yes,less than half an hr,0.1333333333333333,no,no,0.7142857142857142,0.8181818181818182,yes,occasionally,always,high,1.0,0,quite often,yes
+50-59,Male,yes,no,none,0.30000000000000004,no,yes,0.4285714285714286,0.6363636363636364,no,occasionally,always,normal,0.0,0,not much,no
+60 or older,Female,yes,yes,less than half an hr,0.6000000000000001,no,no,0.2857142857142857,0.4545454545454546,yes,occasionally,sometimes,high,0.5,0,not much,yes
+50-59,Male,yes,yes,none,0.5333333333333332,no,yes,0.4285714285714286,0.5454545454545454,yes,occasionally,always,high,0.0,0,not much,yes
+40-49,Female,no,no,none,0.2666666666666666,no,no,0.4285714285714286,0.6363636363636364,no,often,very often,normal,0.25,0,not much,no
+50-59,Male,yes,no,less than half an hr,0.2666666666666666,no,no,0.4285714285714286,0.6363636363636364,yes,occasionally,sometimes,normal,0.0,0,not much,yes
+50-59,Female,no,yes,none,0.16666666666666663,no,no,0.4285714285714286,0.36363636363636365,yes,occasionally,sometimes,high,0.25,0,not much,yes
+50-59,Male,no,no,more than half an hr,0.43333333333333335,no,yes,0.4285714285714286,0.36363636363636365,no,occasionally,sometimes,high,0.0,0,not much,no
+60 or older,Male,yes,yes,less than half an hr,0.3666666666666667,no,yes,0.2857142857142857,0.5454545454545454,yes,occasionally,not at all,high,0.0,0,not much,no
+less than 40,Male,no,no,one hr or more,0.30000000000000004,no,no,0.4285714285714286,0.6363636363636364,no,often,sometimes,normal,0.0,0,not much,no
+60 or older,Male,no,no,more than half an hr,0.30000000000000004,no,no,0.4285714285714286,0.6363636363636364,no,occasionally,sometimes,normal,0.0,0,quite often,yes
+less than 40,Female,no,no,less than half an hr,0.06666666666666665,no,no,0.0,0.36363636363636365,no,occasionally,sometimes,normal,0.0,0,quite often,no
+less than 40,Male,no,no,less than half an hr,0.43333333333333335,yes,yes,0.0,0.36363636363636365,no,occasionally,very often,normal,0.0,0,not much,no
+less than 40,Male,no,no,less than half an hr,0.2666666666666666,yes,no,0.2857142857142857,0.2727272727272727,no,occasionally,very often,normal,0.0,0,not much,no
+less than 40,Male,no,no,less than half an hr,0.30000000000000004,no,no,0.2857142857142857,0.5454545454545454,no,occasionally,not at all,normal,0.0,0,not much,no
+less than 40,Female,no,no,less than half an hr,0.1333333333333333,no,no,0.4285714285714286,0.2727272727272727,yes,occasionally,sometimes,normal,0.25,0,not much,no
+60 or older,Male,no,yes,less than half an hr,0.0,no,no,0.0,0.36363636363636365,yes,occasionally,very often,high,0.0,0,quite often,no
+less than 40,Male,no,no,less than half an hr,0.23333333333333328,no,no,0.2857142857142857,0.18181818181818182,no,often,not at all,normal,0.0,0,quite often,no
+less than 40,Male,yes,no,more than half an hr,0.2666666666666666,no,no,0.4285714285714286,0.2727272727272727,no,occasionally,sometimes,high,0.0,0,not much,no
+less than 40,Male,no,no,one hr or more,0.09999999999999998,no,no,0.5714285714285714,0.36363636363636365,no,occasionally,sometimes,normal,0.0,0,quite often,no
+less than 40,Male,no,no,more than half an hr,0.19999999999999996,no,no,0.1428571428571428,0.4545454545454546,no,very often,sometimes,normal,0.0,0,not much,no
+less than 40,Male,no,no,one hr or more,0.19999999999999996,no,no,0.4285714285714286,0.5454545454545454,yes,often,very often,normal,0.0,0,not much,no
+less than 40,Male,yes,no,one hr or more,0.19999999999999996,no,no,0.7142857142857142,0.5454545454545454,no,very often,sometimes,normal,0.0,0,not much,no
+less than 40,Male,no,no,one hr or more,0.23333333333333328,no,no,0.1428571428571428,0.18181818181818182,no,occasionally,sometimes,normal,0.0,0,not much,no
+less than 40,Male,no,no,one hr or more,0.33333333333333337,no,no,0.2857142857142857,0.5454545454545454,no,occasionally,sometimes,normal,0.0,0,not much,no
+50-59,Male,no,yes,less than half an hr,0.16666666666666663,yes,yes,0.2857142857142857,0.5454545454545454,no,occasionally,very often,high,0.0,0,quite often,no
+less than 40,Male,no,no,more than half an hr,0.30000000000000004,no,no,0.5714285714285714,0.4545454545454546,no,often,not at all,normal,0.0,0,not much,no
+less than 40,Female,no,no,less than half an hr,0.19999999999999996,no,no,0.5714285714285714,0.7272727272727273,no,occasionally,sometimes,normal,0.0,0,quite often,no
+50-59,Male,no,no,less than half an hr,0.3666666666666667,no,no,0.2857142857142857,0.5454545454545454,no,occasionally,sometimes,normal,0.0,0,not much,no
+50-59,Female,no,no,less than half an hr,0.4,no,no,0.5714285714285714,0.5454545454545454,no,occasionally,sometimes,low,0.25,0,not much,no
+less than 40,Female,no,no,one hr or more,0.3666666666666667,no,no,0.5714285714285714,0.5454545454545454,no,occasionally,sometimes,low,0.0,0,not much,no
+less than 40,Male,no,yes,less than half an hr,0.30000000000000004,no,no,0.5714285714285714,0.7272727272727273,no,occasionally,very often,normal,0.0,0,not much,no
+less than 40,Female,no,no,less than half an hr,0.19999999999999996,no,no,0.5714285714285714,0.7272727272727273,no,occasionally,not at all,normal,0.75,1,not much,yes
+40-49,Female,no,no,less than half an hr,0.23333333333333328,no,no,0.5714285714285714,0.7272727272727273,no,occasionally,not at all,normal,0.75,1,not much,no
+60 or older,Male,no,no,more than half an hr,0.2666666666666666,no,yes,0.4285714285714286,0.5454545454545454,yes,occasionally,very often,high,0.0,0,quite often,yes
+60 or older,Male,no,no,less than half an hr,0.43333333333333335,no,no,0.5714285714285714,0.7272727272727273,yes,occasionally,not at all,normal,0.0,0,quite often,yes
+60 or older,Male,yes,yes,less than half an hr,0.5666666666666667,no,no,0.5714285714285714,0.7272727272727273,no,often,very often,high,0.0,0,not much,yes
+40-49,Female,yes,no,less than half an hr,0.6000000000000001,no,no,0.2857142857142857,0.5454545454545454,no,very often,very often,normal,0.5,1,not much,yes
+less than 40,Female,yes,no,one hr or more,0.30000000000000004,no,no,0.5714285714285714,0.7272727272727273,no,often,sometimes,normal,0.0,0,not much,no
+50-59,Female,yes,no,less than half an hr,0.43333333333333335,no,no,0.4285714285714286,0.36363636363636365,yes,occasionally,very often,high,0.0,0,quite often,yes
+50-59,Male,no,no,less than half an hr,0.5,no,no,0.4285714285714286,0.18181818181818182,no,often,always,normal,0.0,0,not much,no
+50-59,Male,yes,yes,one hr or more,0.5,yes,yes,0.4285714285714286,0.6363636363636364,yes,often,always,high,0.0,0,quite often,yes
+less than 40,Female,no,no,more than half an hr,0.4,no,no,0.7142857142857142,0.5454545454545454,no,always,very often,high,0.0,0,not much,no
+less than 40,Male,no,no,one hr or more,0.23333333333333328,yes,no,0.7142857142857142,0.18181818181818182,no,always,always,high,0.0,1,quite often,no
+less than 40,Female,no,no,more than half an hr,0.3587904360056259,no,no,0.1428571428571428,0.36363636363636365,no,often,very often,normal,0.0,0,not much,no
+less than 40,Female,yes,no,more than half an hr,0.09999999999999998,no,no,0.4285714285714286,0.2727272727272727,yes,often,very often,normal,0.0,0,not much,no
+less than 40,Male,yes,no,more than half an hr,0.23333333333333328,no,no,0.4285714285714286,0.4545454545454546,no,often,very often,normal,0.0,0,not much,no
+60 or older,Male,yes,yes,more than half an hr,0.19999999999999996,no,yes,0.5714285714285714,0.36363636363636365,yes,occasionally,sometimes,normal,0.0,0,quite often,no
+60 or older,Female,no,yes,one hr or more,0.3666666666666667,no,no,0.5714285714285714,0.5454545454545454,yes,occasionally,sometimes,normal,0.0,1,not much,yes
+50-59,Female,yes,yes,none,0.3587904360056259,no,no,0.2857142857142857,0.2727272727272727,yes,occasionally,always,high,0.5,0,not much,yes
+less than 40,Male,no,yes,more than half an hr,0.3587904360056259,no,no,0.2857142857142857,0.5454545454545454,no,occasionally,sometimes,normal,0.0,0,quite often,no
+50-59,Female,no,yes,less than half an hr,0.5333333333333332,no,no,0.4285714285714286,0.36363636363636365,yes,occasionally,very often,high,0.0,0,quite often,no
+50-59,Male,no,yes,less than half an hr,0.6000000000000001,no,yes,0.1428571428571428,0.4545454545454546,yes,occasionally,sometimes,high,0.0,0,not much,no
+less than 40,Female,no,yes,one hr or more,0.5,no,no,0.4285714285714286,0.2727272727272727,no,occasionally,sometimes,normal,0.0,0,not much,no
+less than 40,Female,yes,no,more than half an hr,0.2666666666666666,no,yes,0.2857142857142857,0.5454545454545454,no,often,very often,normal,0.0,0,not much,no
+less than 40,Female,yes,no,one hr or more,0.4666666666666667,no,no,0.2857142857142857,0.5454545454545454,no,often,sometimes,normal,0.5,0,quite often,no
+40-49,Female,yes,no,more than half an hr,0.06666666666666665,no,no,0.4285714285714286,0.6363636363636364,no,very often,sometimes,normal,0.75,0,not much,no
+50-59,Female,yes,no,less than half an hr,0.30000000000000004,no,no,0.5714285714285714,0.4545454545454546,yes,occasionally,sometimes,normal,0.5,0,not much,no
+60 or older,Male,yes,no,more than half an hr,0.3666666666666667,no,yes,0.5714285714285714,0.2727272727272727,yes,occasionally,sometimes,normal,0.0,0,quite often,yes
+less than 40,Female,yes,no,one hr or more,0.4,no,yes,0.5714285714285714,0.5454545454545454,no,very often,very often,normal,0.0,0,not much,no
+40-49,Male,yes,yes,more than half an hr,0.19999999999999996,no,no,0.2857142857142857,0.36363636363636365,yes,occasionally,sometimes,normal,0.0,0,not much,yes
+40-49,Female,yes,yes,less than half an hr,0.3666666666666667,no,no,0.4285714285714286,0.36363636363636365,no,occasionally,very often,high,0.0,0,quite often,no
+less than 40,Male,yes,no,one hr or more,0.16666666666666663,no,no,0.4285714285714286,0.5454545454545454,no,occasionally,not at all,normal,0.0,0,not much,no
+less than 40,Male,no,no,more than half an hr,0.23333333333333328,no,no,0.2857142857142857,0.5454545454545454,no,occasionally,sometimes,Low,0.0,0,not much,no
+40-49,Female,yes,no,none,0.23333333333333328,no,no,0.857142857142857,0.9090909090909092,yes,occasionally,always,normal,0.5,0,not much,no
+40-49,Male,yes,no,none,0.30000000000000004,no,no,0.5714285714285714,0.7272727272727273,no,occasionally,sometimes,normal,0.0,0,not much,yes
+60 or older,Female,yes,yes,more than half an hr,0.2666666666666666,no,no,0.7142857142857142,0.8181818181818182,yes,occasionally,always,high,0.75,0,quite often,yes
+60 or older,Female,yes,yes,less than half an hr,0.4,no,no,0.4285714285714286,0.6363636363636364,yes,occasionally,sometimes,high,0.75,0,quite often,yes
+60 or older,Male,yes,yes,more than half an hr,0.30000000000000004,no,yes,0.4285714285714286,0.6363636363636364,yes,occasionally,always,high,0.0,0,not much,yes
+less than 40,Female,yes,no,none,0.09999999999999998,no,no,0.5714285714285714,0.7272727272727273,yes,often,sometimes,normal,0.0,0,not much,no
+less than 40,Female,yes,no,none,0.16666666666666663,no,no,0.7142857142857142,0.8181818181818182,no,often,sometimes,normal,0.0,0,not much,no
+less than 40,Female,no,no,more than half an hr,0.1333333333333333,no,no,0.4285714285714286,0.6363636363636364,no,occasionally,sometimes,normal,0.0,0,not much,no
+less than 40,Male,yes,no,one hr or more,0.43333333333333335,yes,yes,0.4285714285714286,0.6363636363636364,no,often,not at all,normal,0.0,0,not much,yes
+less than 40,Female,no,no,less than half an hr,0.1333333333333333,no,no,0.5714285714285714,0.7272727272727273,no,occasionally,sometimes,normal,0.0,0,not much,no
+less than 40,Male,no,no,more than half an hr,0.33333333333333337,yes,yes,0.4285714285714286,0.4545454545454546,no,often,sometimes,normal,0.0,0,quite often,no
+less than 40,Male,no,no,less than half an hr,0.33333333333333337,no,yes,0.4285714285714286,0.6363636363636364,no,often,sometimes,normal,0.0,0,not much,no
+less than 40,Male,no,no,less than half an hr,0.30000000000000004,yes,yes,0.857142857142857,0.6363636363636364,no,always,always,normal,0.0,0,not much,no
+less than 40,Male,yes,yes,more than half an hr,0.4,no,no,0.4285714285714286,0.4545454545454546,no,occasionally,sometimes,High,0.0,0,not much,no
+less than 40,Male,yes,no,more than half an hr,0.1333333333333333,yes,yes,0.4285714285714286,0.4545454545454546,no,occasionally,not at all,normal,0.0,0,not much,no
+less than 40,Male,no,no,none,0.33333333333333337,yes,yes,0.857142857142857,0.9090909090909092,no,often,very often,normal,0.0,0,quite often,no
+less than 40,Male,no,no,less than half an hr,0.43333333333333335,no,no,0.5714285714285714,0.7272727272727273,yes,occasionally,sometimes,normal,0.0,0,quite often,no
+less than 40,Male,yes,no,one hr or more,0.33333333333333337,no,no,0.1428571428571428,0.4545454545454546,no,occasionally,sometimes,normal,0.0,0,not much,no
+less than 40,Male,yes,no,more than half an hr,0.30000000000000004,no,no,0.2857142857142857,0.4545454545454546,no,occasionally,sometimes,normal,0.0,0,not much,no
+less than 40,Female,yes,no,less than half an hr,0.19999999999999996,no,no,0.5714285714285714,0.6363636363636364,no,often,sometimes,normal,0.0,0,not much,no
+less than 40,Female,yes,no,more than half an hr,0.2666666666666666,no,no,0.7142857142857142,0.7272727272727273,no,often,sometimes,normal,0.0,0,not much,no
+less than 40,Male,no,yes,less than half an hr,0.43333333333333335,yes,yes,0.5714285714285714,0.36363636363636365,no,always,always,normal,0.0,0,not much,no
+less than 40,Male,no,no,less than half an hr,0.16666666666666663,no,no,0.4285714285714286,0.36363636363636365,no,often,sometimes,normal,0.0,0,quite often,no
+less than 40,Male,no,no,more than half an hr,0.09999999999999998,no,no,0.2857142857142857,0.09090909090909091,no,always,sometimes,normal,0.0,0,quite often,no
+less than 40,Male,no,no,one hr or more,0.33333333333333337,no,no,0.2857142857142857,0.5454545454545454,no,always,always,normal,0.0,0,not much,no
+less than 40,Male,yes,yes,less than half an hr,0.43333333333333335,no,no,0.2857142857142857,0.18181818181818182,no,occasionally,not at all,high,0.0,0,quite often,no
+less than 40,Male,yes,no,less than half an hr,0.4,yes,yes,0.2857142857142857,0.5454545454545454,no,always,sometimes,normal,0.0,0,quite often,no
+less than 40,Male,no,no,less than half an hr,0.16666666666666663,no,no,0.5714285714285714,0.5454545454545454,no,always,not at all,normal,0.0,0,not much,no
+less than 40,Male,yes,no,less than half an hr,0.16666666666666663,no,no,0.4285714285714286,0.36363636363636365,no,often,sometimes,normal,0.0,0,quite often,no
+less than 40,Male,no,yes,one hr or more,0.06666666666666665,no,no,0.5714285714285714,0.0,no,occasionally,not at all,normal ,0.0,0,not much,no
+less than 40,Male,no,yes,less than half an hr,0.3666666666666667,no,no,0.2857142857142857,0.36363636363636365,no,very often,sometimes,normal,0.0,0,quite often,no
+less than 40,Male,no,no,more than half an hr,0.19999999999999996,no,no,0.4285714285714286,0.36363636363636365,no,occasionally,sometimes,normal,0.0,0,quite often,no
+less than 40,Male,yes,no,less than half an hr,0.4666666666666667,no,no,0.5714285714285714,0.6363636363636364,no,often,sometimes,Low,0.0,0,not much,no
+less than 40,Male,yes,yes,more than half an hr,0.4666666666666667,no,yes,0.2857142857142857,0.36363636363636365,no,occasionally,sometimes,normal,0.0,0,quite often,no
+less than 40,Male,yes,no,more than half an hr,0.30000000000000004,yes,yes,0.5714285714285714,0.7272727272727273,no,occasionally,sometimes,High,0.0,0,not much,no
+less than 40,Male,yes,no,less than half an hr,0.2666666666666666,no,no,0.1428571428571428,0.4545454545454546,no,always,sometimes,normal,0.0,0,not much,no
+less than 40,Male,yes,no,less than half an hr,0.2666666666666666,no,no,0.1428571428571428,0.4545454545454546,no,occasionally,not at all,normal,0.0,0,not much,no
+less than 40,Female,yes,no,more than half an hr,0.4666666666666667,no,no,0.2857142857142857,0.2727272727272727,no,occasionally,sometimes,normal,0.0,0,quite often,no
+less than 40,Female,no,no,none,0.1333333333333333,no,no,0.7142857142857142,0.4545454545454546,no,very often,sometimes,normal,0.5,0,not much,no
+less than 40,Male,no,no,less than half an hr,0.2666666666666666,yes,yes,0.5714285714285714,0.5454545454545454,no,very often,sometimes,normal,0.0,0,not much,no
+less than 40,Male,no,no,one hr or more,0.06666666666666665,no,no,0.2857142857142857,0.5454545454545454,no,often,sometimes,normal,0.0,0,not much,no
+50-59,Female,yes,no,one hr or more,0.2666666666666666,no,no,0.2857142857142857,0.4545454545454546,no,occasionally,sometimes,high,0.5,0,not much,no
+40-49,Male,yes,no,less than half an hr,0.30000000000000004,no,no,0.4285714285714286,0.4545454545454546,no,occasionally,sometimes,normal,0.0,0,not much,no
+less than 40,Female,yes,no,less than half an hr,0.33333333333333337,no,no,0.5714285714285714,0.36363636363636365,yes,occasionally,sometimes,normal,0.0,0,not much,no
+50-59,Female,yes,no,less than half an hr,0.6666666666666667,no,no,0.5714285714285714,0.4545454545454546,yes,often,very often,normal,0.5,0,quite often,yes
+40-49,Female,yes,yes,more than half an hr,0.6000000000000001,no,no,0.4285714285714286,0.18181818181818182,yes,occasionally,sometimes,High,0.0,0,quite often,yes
+40-49,Female,yes,no,one hr or more,0.6333333333333333,no,no,0.2857142857142857,0.18181818181818182,yes,always,very often,normal,0.0,0,quite often,yes
+50-59,Male,yes,yes,more than half an hr,0.7,yes,no,0.2857142857142857,0.36363636363636365,yes,often,very often,high,0.0,0,not much,yes
+60 or older,Male,no,no,less than half an hr,0.5,no,yes,0.2857142857142857,0.18181818181818182,yes,often,always,High,0.0,0,not much,yes
+less than 40,Male,yes,no,one hr or more,0.43333333333333335,yes,yes,0.1428571428571428,0.2727272727272727,yes,always,always,normal,0.0,0,quite often,yes
+40-49,Male,yes,yes,less than half an hr,0.6666666666666667,yes,yes,0.1428571428571428,0.18181818181818182,yes,very often,sometimes,high,0.0,0,not much,yes
+40-49,Male,no,no,one hr or more,0.30000000000000004,no,yes,0.2857142857142857,0.4545454545454546,no,occasionally,not at all,normal,0.0,0,not much,no
+50-59,Female,no,yes,one hr or more,0.23333333333333328,no,no,0.5714285714285714,0.4545454545454546,yes,occasionally,always,normal,0.75,0,not much,yes
+less than 40,Male,no,no,less than half an hr,0.5,no,yes,0.5714285714285714,0.7272727272727273,yes,occasionally,sometimes,normal,0.0,0,not much,yes
+40-49,Male,yes,yes,one hr or more,0.23333333333333328,no,no,0.4285714285714286,0.5454545454545454,yes,occasionally,sometimes,High,0.0,0,not much,yes
+less than 40,Male,yes,no,more than half an hr,0.23333333333333328,no,no,0.5714285714285714,0.5454545454545454,no,often,sometimes,normal,0.0,0,not much,yes
+60 or older,Male,yes,yes,more than half an hr,0.4,no,no,0.2857142857142857,0.4545454545454546,yes,occasionally,sometimes,high,0.0,0,quite often,yes
+60 or older,Male,no,yes,none,0.2666666666666666,no,no,0.2857142857142857,0.4545454545454546,yes,occasionally,sometimes,high,0.0,0,not much,no
+60 or older,Male,no,yes,less than half an hr,0.4,no,yes,0.2857142857142857,0.4545454545454546,yes,occasionally,very often,high,0.0,0,not much,no
+60 or older,Female,yes,yes,one hr or more,0.4666666666666667,no,no,0.4285714285714286,0.36363636363636365,yes,occasionally,sometimes,high,0.5,0,quite often,yes
+50-59,Male,no,yes,one hr or more,0.8,no,no,0.5714285714285714,0.5454545454545454,no,occasionally,sometimes,high,0.0,0,not much,no
+50-59,Male,yes,yes,less than half an hr,0.43333333333333335,no,no,0.5714285714285714,0.5454545454545454,yes,very often,sometimes,normal,0.0,0,not much,yes
+40-49,Male,no,no,one hr or more,0.30000000000000004,no,no,0.2857142857142857,0.5454545454545454,no,occasionally,sometimes,normal,0.0,0,not much,no
+50-59,Male,no,no,one hr or more,0.2666666666666666,no,no,0.5714285714285714,0.5454545454545454,no,occasionally,sometimes,normal,0.0,0,not much,no
+40-49,Male,yes,no,less than half an hr,0.4,no,no,0.5714285714285714,0.7272727272727273,no,occasionally,sometimes,normal,0.0,0,not much,yes
+40-49,Male,yes,yes,none,0.19999999999999996,no,yes,0.857142857142857,0.9090909090909092,no,occasionally,sometimes,high,0.0,0,not much,yes
+less than 40,Male,no,no,one hr or more,0.30000000000000004,no,no,0.5714285714285714,0.7272727272727273,no,occasionally,sometimes,normal,0.0,0,not much,no
+less than 40,Male,no,no,less than half an hr,0.16666666666666663,no,no,0.4285714285714286,0.6363636363636364,yes,occasionally,sometimes,low,0.0,0,not much,no
+40-49,Male,yes,no,one hr or more,0.2666666666666666,no,no,0.4285714285714286,0.6363636363636364,no,occasionally,sometimes,normal,0.0,0,not much,yes
+less than 40,Male,no,no,more than half an hr,0.16666666666666663,no,no,0.5714285714285714,0.7272727272727273,no,occasionally,sometimes,normal,0.0,0,not much,no
+less than 40,Male,no,no,none,0.16666666666666663,no,no,0.4285714285714286,0.6363636363636364,no,occasionally,not at all,normal,0.0,0,not much,no
+40-49,Male,no,no,less than half an hr,0.3666666666666667,yes,no,0.5714285714285714,0.6363636363636364,no,occasionally,sometimes,normal,0.0,0,not much,no
+less than 40,Female,no,no,less than half an hr,0.19999999999999996,no,no,0.2857142857142857,0.5454545454545454,no,occasionally,sometimes,normal,0.25,0,not much,no
+less than 40,Female,no,no,one hr or more,0.23333333333333328,no,no,0.5714285714285714,0.6363636363636364,no,occasionally,very often,normal,0.5,0,not much,no
+less than 40,Male,no,no,one hr or more,0.0,no,no,0.4285714285714286,0.6363636363636364,no,occasionally,very often,normal,0.0,0,not much,no
+40-49,Female,yes,no,none,0.6333333333333333,no,no,0.2857142857142857,0.5454545454545454,no,occasionally,sometimes,normal,0.75,0,not much,no
+50-59,Male,yes,no,more than half an hr,0.23333333333333328,no,no,0.4285714285714286,0.5454545454545454,no,occasionally,sometimes,normal,0.0,0,not much,yes
+less than 40,Female,no,no,more than half an hr,0.30000000000000004,no,no,0.2857142857142857,0.5454545454545454,no,occasionally,sometimes,normal,0.5,0,quite often,no
+40-49,Male,yes,no,one hr or more,0.30000000000000004,no,no,1.0,1.0,no,occasionally,sometimes,normal,0.0,0,not much,no
+less than 40,Male,yes,no,one hr or more,0.23333333333333328,no,no,0.5714285714285714,0.5454545454545454,no,often,not at all,normal,0.0,0,not much,no
+less than 40,Male,yes,no,one hr or more,0.5,no,yes,0.7142857142857142,0.7272727272727273,no,occasionally,sometimes,normal,0.0,0,not much,no
+less than 40,Female,yes,no,one hr or more,0.30000000000000004,no,no,0.0,0.36363636363636365,yes,often,always,normal,0.75,0,quite often,yes
+less than 40,Female,yes,no,one hr or more,0.30000000000000004,no,no,0.0,0.36363636363636365,yes,often,always,normal,0.75,0,not much,yes
+less than 40,Female,no,no,one hr or more,0.16666666666666663,no,no,0.7142857142857142,0.8181818181818182,no,occasionally,sometimes,normal,0.5,0,not much,no
+less than 40,Male,yes,no,more than half an hr,0.30000000000000004,yes,no,0.5714285714285714,0.7272727272727273,no,occasionally,sometimes,normal,0.0,0,not much,no
+less than 40,Female,no,no,more than half an hr,0.19999999999999996,no,no,0.4285714285714286,0.6363636363636364,no,often,not at all,normal,0.0,0,not much,no
+less than 40,Female,no,no,one hr or more,0.16666666666666663,no,no,0.2857142857142857,0.5454545454545454,no,very often,not at all,normal,0.0,0,not much,no
+50-59,Male,no,no,one hr or more,0.4,no,no,0.4285714285714286,0.6363636363636364,no,very often,not at all,normal,0.0,0,not much,yes
+40-49,Male,yes,no,none,0.4666666666666667,no,no,0.2857142857142857,0.5454545454545454,no,occasionally,not at all,normal,0.0,0,not much,no
+60 or older,Female,no,no,none,0.09999999999999998,no,no,0.2857142857142857,0.5454545454545454,yes,occasionally,sometimes,normal,0.75,0,quite often,yes
+less than 40,Female,no,no,one hr or more,0.5666666666666667,no,no,0.5714285714285714,0.7272727272727273,yes,occasionally,sometimes,normal,0.75,0,not much,no
+40-49,Female,no,no,one hr or more,0.19999999999999996,no,no,0.4285714285714286,0.6363636363636364,no,occasionally,sometimes,normal,0.75,0,quite often,no
+60 or older,Male,no,yes,none,0.3666666666666667,no,no,0.0,0.36363636363636365,yes,occasionally,not at all,high,0.0,0,not much,yes
+60 or older,Female,yes,no,more than half an hr,0.5333333333333332,no,no,0.5714285714285714,0.6363636363636364,yes,occasionally,not at all,normal,0.75,0,not much,yes
+60 or older,Female,yes,no,none,0.3666666666666667,no,no,0.4285714285714286,0.6363636363636364,no,occasionally,sometimes,normal,0.75,0,not much,yes
+60 or older,Male,yes,no,none,0.19999999999999996,no,no,0.5714285714285714,0.7272727272727273,yes,occasionally,not at all,normal,0.0,0,not much,yes
+40-49,Female,yes,no,more than half an hr,0.43333333333333335,no,no,0.5714285714285714,0.5454545454545454,yes,occasionally,always,normal,0.5,0,not much,yes
+50-59,Male,no,yes,one hr or more,0.30000000000000004,no,no,0.5714285714285714,0.7272727272727273,yes,occasionally,sometimes,high,0.0,0,not much,yes
+40-49,Male,no,yes,more than half an hr,0.4,no,no,0.5714285714285714,0.7272727272727273,yes,occasionally,not at all,high,0.0,0,not much,yes
+40-49,Male,no,no,more than half an hr,0.19999999999999996,no,no,0.2857142857142857,0.5454545454545454,yes,occasionally,sometimes,normal,0.0,0,not much,yes
+60 or older,Male,no,no,none,0.4,no,no,0.2857142857142857,0.5454545454545454,no,occasionally,sometimes,normal,0.0,0,not much,no
+60 or older,Male,no,no,none,0.30000000000000004,no,no,0.2857142857142857,0.5454545454545454,no,occasionally,sometimes,normal,0.0,0,not much,yes
+less than 40,Male,yes,no,more than half an hr,0.7,no,no,0.2857142857142857,0.36363636363636365,no,occasionally,sometimes,normal,0.0,0,not much,no
+less than 40,Male,yes,no,less than half an hr,0.19999999999999996,no,no,0.2857142857142857,0.5454545454545454,no,occasionally,not at all,normal,0.0,0,not much,no
+40-49,Male,yes,no,less than half an hr,0.23333333333333328,no,no,0.2857142857142857,0.5454545454545454,yes,occasionally,sometimes,normal,0.0,0,not much,no
+40-49,Male,yes,no,less than half an hr,0.19999999999999996,no,no,0.2857142857142857,0.5454545454545454,no,occasionally,sometimes,low,0.0,0,not much,no
+50-59,Male,yes,no,one hr or more,0.7666666666666666,no,yes,0.5714285714285714,0.5454545454545454,yes,occasionally,very often,normal,0.0,0,not much,yes
+50-59,Female,yes,yes,more than half an hr,0.8333333333333333,no,no,0.7142857142857142,0.4545454545454546,yes,very often,sometimes,high,0.5,1,not much,yes
+60 or older,Male,yes,no,none,0.6666666666666667,no,no,0.1428571428571428,0.4545454545454546,no,occasionally,sometimes,high,0.0,0,quite often,yes
+60 or older,Female,yes,yes,none,0.30000000000000004,no,no,0.0,0.36363636363636365,yes,occasionally,always,high,0.75,0,quite often,yes
+60 or older,Male,no,no,none,0.09999999999999998,no,no,0.1428571428571428,0.4545454545454546,no,occasionally,sometimes,normal,0.0,0,not much,no
+40-49,Male,no,no,more than half an hr,0.2666666666666666,no,no,0.4285714285714286,0.36363636363636365,no,often,sometimes,normal,0.5,0,not much,no
+60 or older,Male,no,yes,less than half an hr,0.1333333333333333,no,yes,0.2857142857142857,0.5454545454545454,yes,often,sometimes,high,0.25,0,not much,yes
+less than 40,Male,no,no,more than half an hr,0.3666666666666667,yes,yes,0.5714285714285714,0.5454545454545454,no,occasionally,sometimes,normal,0.0,0,not much,no
+less than 40,Male,no,no,more than half an hr,0.5,yes,yes,0.1428571428571428,0.4545454545454546,yes,often,not at all,normal,0.25,0,not much,no
+60 or older,Female,no,yes,less than half an hr,0.4,no,no,0.2857142857142857,0.5454545454545454,yes,occasionally,always,high,0.0,0,quite often,yes
+less than 40,Male,no,no,none,0.09999999999999998,yes,yes,0.4285714285714286,0.5454545454545454,no,occasionally,very often,normal,0.0,0,not much,no
+less than 40,Male,no,no,less than half an hr,0.4666666666666667,yes,yes,0.2857142857142857,0.4545454545454546,yes,often,very often,normal,0.0,0,not much,no
+50-59,Male,no,yes,less than half an hr,0.1333333333333333,no,yes,0.2857142857142857,0.5454545454545454,yes,occasionally,very often,high,0.0,0,not much,yes
+50-59,Female,yes,no,none,0.19999999999999996,no,no,0.5714285714285714,0.7272727272727273,yes,occasionally,very often,normal,0.0,0,quite often,yes
+less than 40,Male,no,no,none,0.30000000000000004,no,no,0.857142857142857,0.9090909090909092,no,occasionally,not at all,normal,0.0,0,not much,no
+60 or older,Male,no,no,none,0.5333333333333332,no,no,0.2857142857142857,0.5454545454545454,no,occasionally,very often,normal,0.0,0,not much,no
+less than 40,Male,yes,no,more than half an hr,0.23333333333333328,no,no,0.5714285714285714,0.7272727272727273,no,occasionally,very often,normal,0.0,0,not much,no
+less than 40,Male,yes,no,none,0.1333333333333333,no,yes,0.5714285714285714,0.7272727272727273,no,occasionally,sometimes,normal,0.0,0,not much,no
+50-59,Male,no,no,one hr or more,0.4,no,no,0.2857142857142857,0.36363636363636365,no,occasionally,very often,normal,0.0,0,not much,no
+40-49,Male,yes,yes,less than half an hr,0.3666666666666667,no,no,0.857142857142857,0.5454545454545454,yes,occasionally,very often,high,0.0,0,quite often,yes
+50-59,Female,yes,no,none,0.19999999999999996,no,no,0.5714285714285714,0.4545454545454546,yes,occasionally,sometimes,normal,0.0,0,not much,yes
+60 or older,Male,yes,no,one hr or more,0.3666666666666667,no,no,0.2857142857142857,0.4545454545454546,yes,occasionally,not at all,normal,0.0,0,not much,yes
+50-59,Male,yes,no,one hr or more,0.2666666666666666,yes,yes,0.1428571428571428,0.36363636363636365,yes,occasionally,very often,normal,0.0,0,not much,yes
+less than 40,Male,yes,yes,one hr or more,0.3666666666666667,yes,yes,0.1428571428571428,0.36363636363636365,yes,often,not at all,high,0.0,0,not much,yes
+60 or older,Female,yes,yes,less than half an hr,0.09999999999999998,no,no,0.0,0.2727272727272727,yes,occasionally,sometimes,high,0.0,0,not much,yes
+60 or older,Female,yes,yes,less than half an hr,0.1333333333333333,no,no,0.7142857142857142,0.8181818181818182,yes,occasionally,always,high,1.0,0,quite often,yes
+50-59,Male,yes,no,none,0.30000000000000004,no,yes,0.4285714285714286,0.6363636363636364,no,occasionally,always,normal,0.0,0,not much,no
+60 or older,Female,yes,yes,less than half an hr,0.6000000000000001,no,no,0.2857142857142857,0.4545454545454546,yes,occasionally,sometimes,high,0.5,0,not much,yes
+50-59,Male,yes,yes,none,0.5333333333333332,no,yes,0.4285714285714286,0.5454545454545454,yes,occasionally,always,high,0.0,0,not much,yes
+40-49,Female,no,no,none,0.2666666666666666,no,no,0.4285714285714286,0.6363636363636364,no,often,very often,normal,0.25,0,not much,no
+50-59,Male,yes,no,less than half an hr,0.2666666666666666,no,no,0.4285714285714286,0.6363636363636364,yes,occasionally,sometimes,normal,0.0,0,not much,yes
+50-59,Female,no,yes,none,0.16666666666666663,no,no,0.4285714285714286,0.36363636363636365,yes,occasionally,sometimes,high,0.25,0,not much,yes
+50-59,Male,no,no,more than half an hr,0.43333333333333335,no,yes,0.4285714285714286,0.36363636363636365,no,occasionally,sometimes,high,0.0,0,not much,yes
+60 or older,Male,yes,yes,less than half an hr,0.3666666666666667,no,yes,0.2857142857142857,0.5454545454545454,yes,occasionally,not at all,high,0.0,0,not much,yes
+less than 40,Male,no,no,one hr or more,0.30000000000000004,no,no,0.4285714285714286,0.6363636363636364,no,often,sometimes,normal,0.0,0,not much,no
+60 or older,Male,no,no,more than half an hr,0.30000000000000004,no,no,0.4285714285714286,0.6363636363636364,no,occasionally,sometimes,normal,0.0,0,quite often,yes
+less than 40,Female,no,no,less than half an hr,0.06666666666666665,no,no,0.0,0.36363636363636365,no,occasionally,sometimes,normal,0.0,0,quite often,no
+less than 40,Male,no,no,less than half an hr,0.43333333333333335,yes,yes,0.0,0.36363636363636365,no,occasionally,very often,normal,0.0,0,not much,no
+less than 40,Male,no,no,less than half an hr,0.2666666666666666,yes,no,0.2857142857142857,0.2727272727272727,no,occasionally,very often,normal,0.0,0,not much,no
+less than 40,Male,no,no,less than half an hr,0.30000000000000004,no,no,0.2857142857142857,0.5454545454545454,no,occasionally,not at all,normal,0.0,0,not much,no
+less than 40,Female,no,no,less than half an hr,0.1333333333333333,no,no,0.4285714285714286,0.2727272727272727,yes,occasionally,sometimes,normal,0.25,0,not much,no
+60 or older,Male,no,yes,less than half an hr,0.0,no,no,0.0,0.36363636363636365,yes,occasionally,very often,high,0.0,0,quite often,no
+less than 40,Male,no,no,less than half an hr,0.23333333333333328,no,no,0.2857142857142857,0.18181818181818182,no,often,not at all,normal,0.0,0,quite often,no
+less than 40,Male,yes,no,more than half an hr,0.2666666666666666,no,no,0.4285714285714286,0.2727272727272727,no,occasionally,sometimes,high,0.0,0,not much,no
+less than 40,Male,no,no,one hr or more,0.09999999999999998,no,no,0.5714285714285714,0.36363636363636365,no,occasionally,sometimes,normal,0.0,0,quite often,no
+less than 40,Male,yes,no,more than half an hr,0.19999999999999996,no,no,0.1428571428571428,0.4545454545454546,no,very often,sometimes,normal,0.0,0,not much,no
+less than 40,Male,yes,no,one hr or more,0.19999999999999996,no,no,0.4285714285714286,0.5454545454545454,yes,often,very often,normal,0.0,0,not much,no
+less than 40,Male,yes,no,one hr or more,0.19999999999999996,no,no,0.7142857142857142,0.5454545454545454,no,very often,sometimes,normal,0.0,0,not much,no
+less than 40,Male,no,no,one hr or more,0.23333333333333328,no,no,0.1428571428571428,0.18181818181818182,no,occasionally,sometimes,normal,0.0,0,not much,no
+less than 40,Male,no,no,one hr or more,0.33333333333333337,no,no,0.2857142857142857,0.5454545454545454,no,occasionally,sometimes,normal,0.0,0,not much,no
+50-59,Male,no,yes,less than half an hr,0.16666666666666663,yes,yes,0.2857142857142857,0.5454545454545454,no,occasionally,very often,high,0.0,0,quite often,yes
+less than 40,Male,no,no,more than half an hr,0.30000000000000004,no,no,0.5714285714285714,0.4545454545454546,no,often,not at all,normal,0.0,0,not much,no
+less than 40,Female,no,no,less than half an hr,0.19999999999999996,no,no,0.5714285714285714,0.7272727272727273,no,occasionally,sometimes,normal,0.0,0,quite often,no
+50-59,Male,no,no,less than half an hr,0.3666666666666667,no,no,0.2857142857142857,0.5454545454545454,no,occasionally,sometimes,normal,0.0,0,not much,no
+50-59,Female,no,no,less than half an hr,0.4,no,no,0.5714285714285714,0.5454545454545454,no,occasionally,sometimes,low,0.25,0,not much,no
+less than 40,Female,no,no,one hr or more,0.3666666666666667,no,no,0.5714285714285714,0.5454545454545454,no,occasionally,sometimes,low,0.0,0,not much,no
+less than 40,Male,no,yes,less than half an hr,0.30000000000000004,no,no,0.5714285714285714,0.7272727272727273,no,occasionally,very often,normal,0.0,0,not much,no
+less than 40,Female,no,no,less than half an hr,0.19999999999999996,no,no,0.5714285714285714,0.7272727272727273,no,occasionally,not at all,normal,0.75,1,not much,yes
+40-49,Female,no,no,less than half an hr,0.23333333333333328,no,no,0.5714285714285714,0.7272727272727273,no,occasionally,not at all,normal,0.75,0,not much,no
+60 or older,Male,no,no,more than half an hr,0.2666666666666666,no,yes,0.4285714285714286,0.5454545454545454,yes,occasionally,very often,high,0.0,0,quite often,yes
+60 or older,Male,no,no,less than half an hr,0.43333333333333335,no,no,0.5714285714285714,0.7272727272727273,yes,occasionally,not at all,normal,0.0,0,quite often,yes
+60 or older,Male,yes,yes,less than half an hr,0.5666666666666667,no,no,0.5714285714285714,0.7272727272727273,no,often,very often,high,0.0,0,not much,yes
+40-49,Female,yes,no,less than half an hr,0.6000000000000001,no,no,0.2857142857142857,0.5454545454545454,no,very often,very often,normal,0.5,1,not much,yes
+less than 40,Female,yes,no,one hr or more,0.30000000000000004,no,no,0.5714285714285714,0.7272727272727273,no,often,sometimes,normal,0.0,0,not much,no
+50-59,Female,yes,no,less than half an hr,0.43333333333333335,no,no,0.4285714285714286,0.36363636363636365,yes,occasionally,very often,high,0.0,0,quite often,yes
+50-59,Male,no,no,less than half an hr,0.5,no,no,0.4285714285714286,0.18181818181818182,no,often,always,normal,0.0,0,not much,no
+50-59,Male,yes,yes,one hr or more,0.5,yes,yes,0.4285714285714286,0.6363636363636364,yes,often,always,high,0.0,0,quite often,yes
+less than 40,Female,yes,no,more than half an hr,0.4,no,no,0.4285714285714286,0.5454545454545454,no,occasionally,not at all,normal,0.0,0,not much,no
+less than 40,Female,no,no,more than half an hr,0.4,no,no,0.7142857142857142,0.5454545454545454,no,always,very often,high,0.0,0,not much,no
+less than 40,Male,no,no,one hr or more,0.23333333333333328,yes,no,0.7142857142857142,0.18181818181818182,no,always,always,high,0.0,0,quite often,no
+less than 40,Female,no,no,more than half an hr,0.2666666666666666,no,no,0.1428571428571428,0.36363636363636365,no,often,very often,normal,0.0,0,not much,no
+less than 40,Female,yes,no,more than half an hr,0.09999999999999998,no,no,0.4285714285714286,0.2727272727272727,yes,often,very often,normal,0.0,0,not much,no
+less than 40,Male,yes,no,more than half an hr,0.23333333333333328,no,no,0.4285714285714286,0.4545454545454546,no,often,very often,normal,0.0,0,not much,no
+60 or older,Male,yes,yes,more than half an hr,0.19999999999999996,no,yes,0.5714285714285714,0.36363636363636365,yes,occasionally,sometimes,normal,0.0,0,quite often,no
+60 or older,Female,no,yes,one hr or more,0.3666666666666667,no,no,0.5714285714285714,0.5454545454545454,yes,occasionally,sometimes,normal,0.0,0,not much,yes
+50-59,Female,yes,yes,none,0.43333333333333335,no,no,0.2857142857142857,0.2727272727272727,yes,occasionally,always,high,0.5,0,not much,yes
+less than 40,Male,no,yes,more than half an hr,0.3666666666666667,no,no,0.2857142857142857,0.5454545454545454,no,occasionally,sometimes,normal,0.0,0,quite often,no
+50-59,Female,no,yes,less than half an hr,0.5333333333333332,no,no,0.4285714285714286,0.36363636363636365,yes,occasionally,very often,high,0.0,0,quite often,no
+50-59,Male,no,yes,less than half an hr,0.6000000000000001,no,yes,0.1428571428571428,0.4545454545454546,yes,occasionally,sometimes,high,0.0,0,not much,no
+less than 40,Female,no,yes,one hr or more,0.5,no,no,0.4285714285714286,0.2727272727272727,no,occasionally,sometimes,normal,0.0,0,not much,no
+less than 40,Female,yes,no,more than half an hr,0.2666666666666666,no,yes,0.2857142857142857,0.5454545454545454,no,often,very often,normal,0.0,0,not much,no
+less than 40,Female,yes,no,one hr or more,0.4666666666666667,no,no,0.2857142857142857,0.5454545454545454,no,often,sometimes,normal,0.5,0,quite often,no
+40-49,Female,yes,no,more than half an hr,0.06666666666666665,no,no,0.4285714285714286,0.6363636363636364,no,very often,sometimes,normal,0.75,0,not much,no
+50-59,Female,yes,no,less than half an hr,0.30000000000000004,no,no,0.5714285714285714,0.4545454545454546,yes,occasionally,sometimes,normal,0.5,0,not much,no
+60 or older,Male,yes,no,more than half an hr,0.3666666666666667,no,yes,0.5714285714285714,0.2727272727272727,yes,occasionally,sometimes,normal,0.0,0,quite often,yes
+less than 40,Female,yes,no,one hr or more,0.4,no,yes,0.5714285714285714,0.5454545454545454,no,very often,very often,normal,0.0,0,not much,no
+40-49,Male,yes,yes,more than half an hr,0.19999999999999996,no,no,0.2857142857142857,0.36363636363636365,yes,occasionally,sometimes,normal,0.0,0,not much,yes
+40-49,Female,yes,yes,less than half an hr,0.3666666666666667,no,no,0.4285714285714286,0.36363636363636365,no,occasionally,very often,high,0.0,0,quite often,no
+less than 40,Male,yes,no,one hr or more,0.16666666666666663,no,no,0.4285714285714286,0.5454545454545454,no,occasionally,not at all,normal,0.0,0,not much,no
+less than 40,Male,no,no,more than half an hr,0.23333333333333328,no,no,0.2857142857142857,0.5454545454545454,no,occasionally,sometimes,low,0.0,0,not much,no
+less than 40,Male,yes,no,more than half an hr,0.19999999999999996,yes,no,0.5714285714285714,0.7272727272727273,no,occasionally,very often,normal,0.0,0,not much,no
+less than 40,Female,yes,no,one hr or more,0.3666666666666667,no,no,0.4285714285714286,0.4545454545454546,no,often,sometimes,low,0.0,0,not much,no
+less than 40,Female,yes,no,none,0.19999999999999996,no,yes,0.7142857142857142,0.7272727272727273,no,occasionally,sometimes,normal,0.0,0,not much,no
+less than 40,Female,yes,no,none,0.19999999999999996,no,yes,0.5714285714285714,0.7272727272727273,no,occasionally,sometimes,normal,0.0,0,not much,no
+less than 40,Female,yes,no,more than half an hr,0.30000000000000004,no,no,0.5714285714285714,0.7272727272727273,yes,often,sometimes,normal,0.0,0,quite often,no
+less than 40,Male,no,no,more than half an hr,0.30000000000000004,yes,yes,0.4285714285714286,0.5454545454545454,no,often,sometimes,normal,0.0,0,not much,no
+less than 40,Male,no,no,less than half an hr,0.3666666666666667,no,yes,0.2857142857142857,0.36363636363636365,no,occasionally,very often,normal,0.0,0,not much,no
+50-59,Male,yes,no,less than half an hr,0.5666666666666667,no,no,0.5714285714285714,0.36363636363636365,yes,occasionally,sometimes,normal,0.0,0,not much,yes
+40-49,Male,yes,no,more than half an hr,0.6333333333333333,no,no,0.4285714285714286,0.4545454545454546,no,often,sometimes,normal,0.0,0,quite often,no
+less than 40,Male,no,no,more than half an hr,0.5,no,no,0.4285714285714286,0.36363636363636365,no,occasionally,sometimes,normal,0.0,0,not much,no
+50-59,Female,no,yes,more than half an hr,0.8999999999999999,no,no,0.4285714285714286,0.2727272727272727,yes,occasionally,always,high,0.0,0,not much,no
+less than 40,Male,yes,no,less than half an hr,0.6000000000000001,no,no,0.5714285714285714,0.36363636363636365,no,occasionally,sometimes,normal,0.0,0,not much,no
+less than 40,Male,no,no,one hr or more,0.2666666666666666,no,no,0.4285714285714286,0.4545454545454546,no,occasionally,sometimes,normal,0.0,0,not much,no
+50-59,Male,yes,yes,more than half an hr,0.4,no,yes,0.4285714285714286,0.4545454545454546,no,occasionally,sometimes,high,0.0,0,not much,no
+40-49,Female,no,no,one hr or more,0.33333333333333337,no,no,0.1428571428571428,0.36363636363636365,no,occasionally,sometimes,normal,0.0,0,not much,no
+less than 40,Female,no,no,more than half an hr,0.43333333333333335,no,no,0.2857142857142857,0.4545454545454546,no,occasionally,sometimes,normal,0.0,0,not much,no
+40-49,Female,no,no,less than half an hr,0.43333333333333335,no,no,0.2857142857142857,0.36363636363636365,no,occasionally,sometimes,normal,0.0,0,not much,no
+40-49,Female,no,no,less than half an hr,0.6000000000000001,no,no,0.4285714285714286,0.4545454545454546,no,occasionally,sometimes,normal,0.0,0,not much,no
+50-59,Female,no,no,less than half an hr,0.6000000000000001,no,no,0.4285714285714286,0.4545454545454546,yes,occasionally,sometimes,normal,0.0,0,quite often,no
+50-59,Female,no,no,more than half an hr,0.43333333333333335,no,no,0.4285714285714286,0.2727272727272727,no,occasionally,sometimes,normal,0.0,0,quite often,no
+less than 40,Female,no,no,less than half an hr,0.43333333333333335,no,no,0.2857142857142857,0.2727272727272727,no,occasionally,not at all,normal,0.0,0,quite often,no
+40-49,Female,yes,yes,more than half an hr,0.7,no,no,0.4285714285714286,0.5454545454545454,yes,occasionally,sometimes,normal,0.0,0,quite often,no
+less than 40,Female,no,no,more than half an hr,0.6000000000000001,no,no,0.5714285714285714,0.36363636363636365,no,occasionally,sometimes,normal,0.0,0,quite often,no
+less than 40,Female,no,no,less than half an hr,0.43333333333333335,no,no,0.2857142857142857,0.4545454545454546,no,occasionally,sometimes,normal,0.0,0,not much,no
+40-49,Male,yes,no,more than half an hr,0.43333333333333335,no,no,0.4285714285714286,0.4545454545454546,no,occasionally,sometimes,normal,0.0,0,quite often,no
+less than 40,Male,no,no,more than half an hr,0.6000000000000001,no,no,0.5714285714285714,0.36363636363636365,no,occasionally,sometimes,normal,0.0,0,not much,no
+40-49,Female,yes,no,less than half an hr,0.7666666666666666,no,no,0.4285714285714286,0.36363636363636365,no,occasionally,not at all,normal,0.0,0,quite often,no
+50-59,Female,no,yes,more than half an hr,0.6000000000000001,no,no,0.2857142857142857,0.36363636363636365,yes,occasionally,sometimes,high,0.0,0,quite often,yes
+40-49,Male,no,no,less than half an hr,0.7666666666666666,no,no,0.1428571428571428,0.36363636363636365,yes,occasionally,sometimes,normal,0.0,0,quite often,no
+40-49,Female,yes,no,less than half an hr,0.7,no,no,0.4285714285714286,0.4545454545454546,no,occasionally,sometimes,normal,0.0,0,quite often,no
+less than 40,Female,yes,no,less than half an hr,0.6000000000000001,no,no,0.2857142857142857,0.36363636363636365,no,occasionally,very often,normal,0.0,0,quite often,no
+less than 40,Female,no,no,more than half an hr,0.6000000000000001,no,no,0.4285714285714286,0.36363636363636365,no,often,not at all,normal,0.0,0,quite often,no
+40-49,Female,no,no,less than half an hr,0.7666666666666666,no,no,0.2857142857142857,0.36363636363636365,no,occasionally,sometimes,normal,0.0,0,quite often,no
+40-49,Female,yes,no,more than half an hr,0.7,no,no,0.4285714285714286,0.2727272727272727,yes,occasionally,sometimes,normal,0.0,0,quite often,no
+less than 40,Female,no,no,less than half an hr,0.6000000000000001,no,no,0.4285714285714286,0.36363636363636365,no,occasionally,sometimes,normal,0.0,0,quite often,no
+50-59,Male,no,no,less than half an hr,0.7666666666666666,no,no,0.2857142857142857,0.2727272727272727,yes,occasionally,sometimes,normal,0.0,0,quite often,no
+60 or older,Female,yes,no,less than half an hr,0.7666666666666666,no,no,0.1428571428571428,0.18181818181818182,yes,occasionally,very often,high,0.0,0,quite often,yes
+60 or older,Male,no,yes,less than half an hr,0.6000000000000001,no,no,0.2857142857142857,0.18181818181818182,yes,occasionally,very often,high,0.0,0,quite often,yes
+less than 40,Female,no,no,less than half an hr,0.6000000000000001,no,no,0.5714285714285714,0.2727272727272727,no,occasionally,sometimes,normal,0.0,0,quite often,no
+less than 40,Female,yes,yes,more than half an hr,0.7666666666666666,no,no,0.5714285714285714,0.36363636363636365,yes,occasionally,sometimes,normal,0.0,0,quite often,no
+less than 40,Male,yes,no,less than half an hr,0.5666666666666667,no,no,0.2857142857142857,0.36363636363636365,no,often,sometimes,normal,0.0,0,quite often,no
+less than 40,Male,no,no,more than half an hr,0.6000000000000001,no,no,0.5714285714285714,0.2727272727272727,no,often,sometimes,normal,0.0,0,quite often,no
+40-49,Female,yes,no,none,0.23333333333333328,no,no,0.857142857142857,0.9090909090909092,yes,occasionally,always,normal,0.5,0,not much,no
+40-49,Male,yes,no,none,0.30000000000000004,no,no,0.5714285714285714,0.7272727272727273,no,occasionally,sometimes,normal,0.0,0,not much,yes
+60 or older,Female,yes,yes,more than half an hr,0.2666666666666666,no,no,0.7142857142857142,0.8181818181818182,yes,occasionally,always,high,0.75,0,quite often,yes
+60 or older,Female,yes,yes,less than half an hr,0.4,no,no,0.4285714285714286,0.6363636363636364,yes,occasionally,sometimes,high,0.75,0,quite often,yes
+60 or older,Male,yes,yes,more than half an hr,0.30000000000000004,no,yes,0.4285714285714286,0.6363636363636364,yes,occasionally,always,high,0.0,0,not much,yes
+less than 40,Female,yes,no,none,0.09999999999999998,no,no,0.5714285714285714,0.7272727272727273,yes,often,sometimes,normal,0.0,0,not much,no
+less than 40,Female,yes,no,none,0.16666666666666663,no,no,0.7142857142857142,0.8181818181818182,no,often,sometimes,normal,0.0,0,not much,no
+less than 40,Female,no,no,more than half an hr,0.1333333333333333,no,no,0.4285714285714286,0.6363636363636364,no,occasionally,sometimes,normal,0.0,0,not much,no
+less than 40,Male,yes,no,one hr or more,0.43333333333333335,yes,yes,0.4285714285714286,0.6363636363636364,no,often,not at all,normal,0.0,0,not much,yes
+less than 40,Female,no,no,less than half an hr,0.1333333333333333,no,no,0.5714285714285714,0.7272727272727273,no,occasionally,sometimes,normal,0.0,0,not much,no
+less than 40,Male,no,no,more than half an hr,0.33333333333333337,yes,yes,0.4285714285714286,0.4545454545454546,no,often,sometimes,normal,0.0,0,quite often,no
+less than 40,Male,no,no,less than half an hr,0.33333333333333337,no,yes,0.4285714285714286,0.6363636363636364,no,often,sometimes,normal,0.0,0,not much,no
+less than 40,Male,no,no,less than half an hr,0.30000000000000004,yes,yes,0.857142857142857,0.6363636363636364,no,always,always,normal,0.0,0,not much,no
+less than 40,Male,yes,yes,more than half an hr,0.4,no,no,0.4285714285714286,0.4545454545454546,no,occasionally,sometimes,high,0.0,0,not much,no
+less than 40,Male,yes,no,more than half an hr,0.1333333333333333,yes,yes,0.4285714285714286,0.4545454545454546,no,occasionally,not at all,normal,0.0,0,not much,no
+less than 40,Male,no,no,none,0.33333333333333337,yes,yes,0.857142857142857,0.9090909090909092,no,often,very often,normal,0.0,0,quite often,no
+less than 40,Male,no,no,less than half an hr,0.43333333333333335,no,no,0.5714285714285714,0.7272727272727273,yes,occasionally,sometimes,normal,0.0,0,quite often,no
+less than 40,Male,yes,no,one hr or more,0.33333333333333337,no,no,0.1428571428571428,0.4545454545454546,no,occasionally,sometimes,normal,0.0,0,not much,no
+less than 40,Male,yes,no,more than half an hr,0.30000000000000004,no,no,0.2857142857142857,0.4545454545454546,no,occasionally,sometimes,normal,0.0,0,not much,no
+less than 40,Female,yes,no,less than half an hr,0.19999999999999996,no,no,0.5714285714285714,0.6363636363636364,no,often,sometimes,normal,0.0,0,not much,no
+less than 40,Female,yes,no,more than half an hr,0.2666666666666666,no,no,0.7142857142857142,0.7272727272727273,no,often,sometimes,normal,0.0,0,not much,no
+less than 40,Male,no,yes,less than half an hr,0.43333333333333335,yes,yes,0.5714285714285714,0.36363636363636365,no,always,always,normal,0.0,0,not much,no
+less than 40,Male,no,no,less than half an hr,0.16666666666666663,no,no,0.4285714285714286,0.36363636363636365,no,often,sometimes,normal,0.0,0,quite often,no
+less than 40,Male,no,no,more than half an hr,0.09999999999999998,no,no,0.2857142857142857,0.09090909090909091,no,always,sometimes,normal,0.0,0,quite often,no
+less than 40,Male,no,no,one hr or more,0.33333333333333337,no,no,0.2857142857142857,0.5454545454545454,no,always,always,normal,0.0,0,not much,no
+less than 40,Male,yes,yes,less than half an hr,0.43333333333333335,no,no,0.2857142857142857,0.18181818181818182,no,occasionally,not at all,high,0.0,0,quite often,no
+less than 40,Male,yes,no,less than half an hr,0.4,yes,yes,0.2857142857142857,0.5454545454545454,no,always,sometimes,normal,0.0,0,quite often,no
+less than 40,Male,no,no,less than half an hr,0.16666666666666663,no,no,0.5714285714285714,0.5454545454545454,no,always,not at all,normal,0.0,0,not much,no
+less than 40,Male,yes,no,less than half an hr,0.16666666666666663,no,no,0.4285714285714286,0.36363636363636365,no,often,sometimes,normal,0.0,0,quite often,no
+less than 40,Male,no,yes,one hr or more,0.06666666666666665,no,no,0.5714285714285714,0.0,no,occasionally,not at all,normal,0.0,0,not much,no
+less than 40,Male,no,yes,less than half an hr,0.3666666666666667,no,no,0.2857142857142857,0.36363636363636365,no,very often,sometimes,normal,0.0,0,quite often,no
+less than 40,Male,no,no,more than half an hr,0.19999999999999996,no,no,0.4285714285714286,0.36363636363636365,no,occasionally,sometimes,normal,0.0,0,quite often,no
+less than 40,Male,yes,no,less than half an hr,0.4666666666666667,no,no,0.5714285714285714,0.6363636363636364,no,often,sometimes,low,0.0,0,not much,no
+less than 40,Male,yes,yes,more than half an hr,0.4666666666666667,no,yes,0.2857142857142857,0.36363636363636365,no,occasionally,sometimes,normal,0.0,0,quite often,no
+less than 40,Male,yes,no,more than half an hr,0.30000000000000004,yes,yes,0.5714285714285714,0.7272727272727273,no,occasionally,sometimes,high,0.0,0,not much,no
+less than 40,Male,yes,no,less than half an hr,0.2666666666666666,no,no,0.1428571428571428,0.4545454545454546,no,always,sometimes,normal,0.0,0,not much,no
+less than 40,Male,yes,no,less than half an hr,0.2666666666666666,no,no,0.1428571428571428,0.4545454545454546,no,occasionally,not at all,normal,0.0,0,not much,no
+less than 40,Female,yes,no,more than half an hr,0.4666666666666667,no,no,0.2857142857142857,0.2727272727272727,no,occasionally,sometimes,normal,0.0,0,quite often,no
+less than 40,Female,no,no,none,0.1333333333333333,no,no,0.7142857142857142,0.4545454545454546,no,very often,sometimes,normal,0.5,0,not much,no
+less than 40,Male,no,no,less than half an hr,0.2666666666666666,yes,yes,0.5714285714285714,0.5454545454545454,no,very often,sometimes,normal,0.0,0,not much,no
+less than 40,Male,no,no,one hr or more,0.06666666666666665,no,no,0.2857142857142857,0.5454545454545454,no,often,sometimes,normal,0.0,0,not much,no
+50-59,Female,yes,no,one hr or more,0.2666666666666666,no,no,0.2857142857142857,0.4545454545454546,no,occasionally,sometimes,high,0.5,0,not much,no
+40-49,Male,yes,no,less than half an hr,0.30000000000000004,no,no,0.4285714285714286,0.4545454545454546,no,occasionally,sometimes,normal,0.0,0,not much,no
+less than 40,Female,yes,no,less than half an hr,0.33333333333333337,no,no,0.5714285714285714,0.36363636363636365,yes,occasionally,sometimes,normal,0.0,0,not much,no
+50-59,Female,yes,no,less than half an hr,0.6666666666666667,no,no,0.5714285714285714,0.4545454545454546,yes,often,very often,normal,0.5,0,quite often,yes
+40-49,Female,yes,yes,more than half an hr,0.6000000000000001,no,no,0.4285714285714286,0.18181818181818182,yes,occasionally,sometimes,high,0.0,0,quite often,yes
+40-49,Female,yes,no,one hr or more,0.6333333333333333,no,no,0.2857142857142857,0.18181818181818182,yes,always,very often,normal,0.0,0,quite often,yes
+50-59,Male,yes,yes,more than half an hr,0.7,yes,no,0.2857142857142857,0.36363636363636365,yes,often,very often,high,0.0,0,not much,yes
+60 or older,Male,no,no,less than half an hr,0.5,no,yes,0.2857142857142857,0.18181818181818182,yes,often,always,high,0.0,0,not much,yes
+less than 40,Male,yes,no,one hr or more,0.43333333333333335,yes,yes,0.1428571428571428,0.2727272727272727,yes,always,always,normal,0.0,0,quite often,yes
+40-49,Male,yes,yes,less than half an hr,0.6666666666666667,yes,yes,0.1428571428571428,0.18181818181818182,yes,very often,sometimes,high,0.0,0,not much,yes
+40-49,Male,no,no,one hr or more,0.30000000000000004,no,yes,0.2857142857142857,0.4545454545454546,no,occasionally,not at all,normal,0.0,0,not much,no
+50-59,Female,no,yes,one hr or more,0.23333333333333328,no,no,0.5714285714285714,0.4545454545454546,yes,occasionally,always,normal,0.75,0,not much,yes
+less than 40,Male,no,no,less than half an hr,0.5,no,yes,0.5714285714285714,0.7272727272727273,yes,occasionally,sometimes,normal,0.0,0,not much,yes
+40-49,Male,yes,yes,one hr or more,0.23333333333333328,no,no,0.4285714285714286,0.5454545454545454,yes,occasionally,sometimes,high,0.0,0,not much,yes
+less than 40,Male,yes,no,more than half an hr,0.23333333333333328,no,no,0.5714285714285714,0.5454545454545454,no,often,sometimes,normal,0.0,0,not much,yes
+60 or older,Male,yes,yes,more than half an hr,0.4,no,no,0.2857142857142857,0.4545454545454546,yes,occasionally,sometimes,high,0.0,0,quite often,yes
+60 or older,Male,no,yes,none,0.2666666666666666,no,no,0.2857142857142857,0.4545454545454546,yes,occasionally,sometimes,high,0.0,0,not much,yes
+60 or older,Male,no,yes,less than half an hr,0.4,no,yes,0.2857142857142857,0.4545454545454546,yes,occasionally,very often,high,0.0,0,not much,yes
+60 or older,Female,yes,yes,one hr or more,0.4666666666666667,no,no,0.4285714285714286,0.36363636363636365,yes,occasionally,sometimes,high,0.5,0,quite often,yes
+50-59,Male,no,yes,one hr or more,0.8,no,no,0.5714285714285714,0.5454545454545454,no,occasionally,sometimes,high,0.0,0,not much,no
+50-59,Male,no,yes,less than half an hr,0.43333333333333335,no,no,0.5714285714285714,0.5454545454545454,yes,very often,sometimes,normal,0.0,0,not much,no
+40-49,Male,no,no,one hr or more,0.30000000000000004,no,no,0.2857142857142857,0.5454545454545454,no,occasionally,sometimes,normal,0.0,0,not much,no
+50-59,Male,no,no,one hr or more,0.2666666666666666,no,no,0.5714285714285714,0.5454545454545454,no,occasionally,sometimes,normal,0.0,0,not much,yes
+40-49,Male,no,no,less than half an hr,0.4,no,no,0.5714285714285714,0.7272727272727273,no,occasionally,sometimes,normal,0.0,0,not much,no
+40-49,Male,no,yes,none,0.19999999999999996,no,yes,0.857142857142857,0.9090909090909092,no,occasionally,sometimes,high,0.0,0,not much,yes
+less than 40,Male,no,no,one hr or more,0.30000000000000004,no,no,0.5714285714285714,0.7272727272727273,no,occasionally,sometimes,normal,0.0,0,not much,no
+less than 40,Male,no,no,less than half an hr,0.16666666666666663,no,no,0.4285714285714286,0.6363636363636364,yes,occasionally,sometimes,low,0.0,0,not much,no
+40-49,Male,yes,no,one hr or more,0.2666666666666666,no,no,0.4285714285714286,0.6363636363636364,no,occasionally,sometimes,normal,0.0,0,not much,no
+less than 40,Male,no,no,more than half an hr,0.16666666666666663,no,no,0.5714285714285714,0.7272727272727273,no,occasionally,sometimes,normal,0.0,0,not much,no
+less than 40,Male,no,no,none,0.16666666666666663,no,no,0.4285714285714286,0.6363636363636364,no,occasionally,not at all,normal,0.0,0,not much,no
+40-49,Male,no,no,less than half an hr,0.3666666666666667,yes,no,0.5714285714285714,0.6363636363636364,no,occasionally,sometimes,normal,0.0,0,not much,no
+less than 40,Female,no,no,less than half an hr,0.19999999999999996,no,no,0.2857142857142857,0.5454545454545454,no,occasionally,sometimes,normal,0.25,0,not much,no
+less than 40,Female,no,no,one hr or more,0.23333333333333328,no,no,0.5714285714285714,0.6363636363636364,no,occasionally,very often,normal,0.5,0,not much,no
+less than 40,Male,no,no,one hr or more,0.0,no,no,0.4285714285714286,0.6363636363636364,no,occasionally,very often,normal,0.0,0,not much,no
+40-49,Female,yes,no,none,0.6333333333333333,no,no,0.2857142857142857,0.5454545454545454,no,occasionally,sometimes,normal,0.75,0,not much,no
+50-59,Male,yes,no,more than half an hr,0.23333333333333328,no,no,0.4285714285714286,0.5454545454545454,no,occasionally,sometimes,normal,0.0,0,not much,no
+less than 40,Female,no,no,more than half an hr,0.30000000000000004,no,no,0.2857142857142857,0.5454545454545454,no,occasionally,sometimes,normal,0.5,0,quite often,no
+40-49,Male,yes,no,one hr or more,0.30000000000000004,no,no,1.0,1.0,no,occasionally,sometimes,normal,0.0,0,not much,no
+less than 40,Male,yes,no,one hr or more,0.23333333333333328,no,no,0.5714285714285714,0.5454545454545454,no,often,not at all,normal,0.0,0,not much,no
+less than 40,Male,yes,no,one hr or more,0.5,no,yes,0.7142857142857142,0.7272727272727273,no,occasionally,sometimes,normal,0.0,0,not much,no
+less than 40,Female,yes,no,one hr or more,0.30000000000000004,no,no,0.0,0.36363636363636365,yes,often,always,normal,0.75,0,quite often,yes
+less than 40,Female,yes,no,one hr or more,0.30000000000000004,no,no,0.0,0.36363636363636365,yes,often,always,normal,0.75,0,not much,yes
+less than 40,Female,no,no,one hr or more,0.16666666666666663,no,no,0.7142857142857142,0.8181818181818182,no,occasionally,sometimes,normal,0.5,0,not much,no
+less than 40,Male,yes,no,more than half an hr,0.30000000000000004,yes,no,0.5714285714285714,0.7272727272727273,no,occasionally,sometimes,normal,0.0,0,not much,no
+less than 40,Female,no,no,more than half an hr,0.19999999999999996,no,no,0.4285714285714286,0.6363636363636364,no,often,not at all,normal,0.0,0,not much,no
+less than 40,Female,no,no,one hr or more,0.16666666666666663,no,no,0.2857142857142857,0.5454545454545454,no,very often,not at all,normal,0.0,0,not much,no
+50-59,Male,no,no,one hr or more,0.4,no,no,0.4285714285714286,0.6363636363636364,no,very often,not at all,normal,0.0,0,not much,no
+40-49,Male,yes,no,none,0.4666666666666667,no,no,0.2857142857142857,0.5454545454545454,no,occasionally,not at all,normal,0.0,0,not much,no
+60 or older,Female,no,no,none,0.09999999999999998,no,no,0.2857142857142857,0.5454545454545454,yes,occasionally,sometimes,normal,0.75,0,quite often,yes
+less than 40,Female,no,no,one hr or more,0.5666666666666667,no,no,0.5714285714285714,0.7272727272727273,yes,occasionally,sometimes,normal,0.75,0,not much,no
+40-49,Female,no,no,one hr or more,0.19999999999999996,no,no,0.4285714285714286,0.6363636363636364,no,occasionally,sometimes,normal,0.75,0,quite often,no
+60 or older,Male,no,yes,none,0.3666666666666667,no,no,0.0,0.36363636363636365,yes,occasionally,not at all,high,0.0,0,not much,yes
+60 or older,Female,yes,no,more than half an hr,0.5333333333333332,no,no,0.5714285714285714,0.6363636363636364,yes,occasionally,not at all,normal,0.75,0,not much,yes
+60 or older,Female,yes,no,none,0.3666666666666667,no,no,0.4285714285714286,0.6363636363636364,no,occasionally,sometimes,normal,0.75,0,not much,no
+60 or older,Male,yes,no,none,0.19999999999999996,no,no,0.5714285714285714,0.7272727272727273,yes,occasionally,not at all,normal,0.0,0,not much,yes
+40-49,Female,yes,no,more than half an hr,0.43333333333333335,no,no,0.5714285714285714,0.5454545454545454,yes,occasionally,always,normal,0.5,0,not much,yes
+50-59,Male,no,yes,one hr or more,0.30000000000000004,no,no,0.5714285714285714,0.7272727272727273,yes,occasionally,sometimes,high,0.0,0,not much,yes
+40-49,Male,no,yes,more than half an hr,0.4,no,no,0.5714285714285714,0.7272727272727273,yes,occasionally,not at all,high,0.0,0,not much,yes
+40-49,Male,no,no,more than half an hr,0.19999999999999996,no,no,0.2857142857142857,0.5454545454545454,yes,occasionally,sometimes,normal,0.0,0,not much,yes
+60 or older,Male,no,no,none,0.4,no,no,0.2857142857142857,0.5454545454545454,no,occasionally,sometimes,normal,0.0,0,not much,no
+60 or older,Male,no,no,none,0.30000000000000004,no,no,0.2857142857142857,0.5454545454545454,no,occasionally,sometimes,normal,0.0,0,not much,yes
+less than 40,Male,yes,no,more than half an hr,0.7,no,no,0.2857142857142857,0.36363636363636365,no,occasionally,sometimes,normal,0.0,0,not much,no
+less than 40,Male,yes,no,less than half an hr,0.19999999999999996,no,no,0.2857142857142857,0.5454545454545454,no,occasionally,not at all,normal,0.0,0,not much,no
+40-49,Male,yes,no,less than half an hr,0.23333333333333328,no,no,0.2857142857142857,0.5454545454545454,yes,occasionally,sometimes,normal,0.0,0,not much,no
+40-49,Male,yes,no,less than half an hr,0.19999999999999996,no,no,0.2857142857142857,0.5454545454545454,no,occasionally,sometimes,low,0.0,0,not much,no
+50-59,Male,yes,no,one hr or more,0.7666666666666666,no,yes,0.5714285714285714,0.5454545454545454,yes,occasionally,very often,normal,0.0,0,not much,yes
+50-59,Female,yes,yes,more than half an hr,0.8333333333333333,no,no,0.7142857142857142,0.4545454545454546,yes,very often,sometimes,high,0.5,1,not much,yes
+60 or older,Male,yes,no,none,0.6666666666666667,no,no,0.1428571428571428,0.4545454545454546,no,occasionally,sometimes,high,0.0,0,quite often,yes
+60 or older,Female,yes,yes,none,0.30000000000000004,no,no,0.0,0.36363636363636365,yes,occasionally,always,high,0.75,0,quite often,yes
+60 or older,Male,no,no,none,0.09999999999999998,no,no,0.1428571428571428,0.4545454545454546,no,occasionally,sometimes,normal,0.0,0,not much,no
+40-49,Male,no,no,more than half an hr,0.2666666666666666,no,no,0.4285714285714286,0.36363636363636365,no,often,sometimes,normal,0.5,0,not much,no
+60 or older,Male,no,yes,less than half an hr,0.1333333333333333,no,yes,0.2857142857142857,0.5454545454545454,yes,often,sometimes,high,0.25,0,not much,no
+less than 40,Male,no,no,more than half an hr,0.3666666666666667,yes,yes,0.5714285714285714,0.5454545454545454,no,occasionally,sometimes,normal,0.0,0,not much,no
+less than 40,Male,no,no,more than half an hr,0.5,yes,yes,0.1428571428571428,0.4545454545454546,yes,often,not at all,normal,0.25,0,not much,no
+60 or older,Female,no,yes,less than half an hr,0.4,no,no,0.2857142857142857,0.5454545454545454,yes,occasionally,always,high,0.0,0,quite often,yes
+less than 40,Male,no,no,none,0.09999999999999998,yes,yes,0.4285714285714286,0.5454545454545454,no,occasionally,very often,normal,0.0,0,not much,no
+less than 40,Male,no,no,less than half an hr,0.4666666666666667,yes,yes,0.2857142857142857,0.4545454545454546,yes,often,very often,normal,0.0,0,not much,no
+50-59,Male,no,yes,less than half an hr,0.1333333333333333,no,yes,0.2857142857142857,0.5454545454545454,yes,occasionally,very often,high,0.0,0,not much,no
+50-59,Female,yes,no,none,0.19999999999999996,no,no,0.5714285714285714,0.7272727272727273,yes,occasionally,very often,normal,0.0,0,quite often,yes
+less than 40,Male,no,no,none,0.30000000000000004,no,no,0.857142857142857,0.9090909090909092,no,occasionally,not at all,normal,0.0,0,not much,no
+60 or older,Male,no,no,none,0.5333333333333332,no,no,0.2857142857142857,0.5454545454545454,no,occasionally,very often,normal,0.0,0,not much,yes
+less than 40,Male,yes,no,more than half an hr,0.23333333333333328,no,no,0.5714285714285714,0.7272727272727273,no,occasionally,very often,normal,0.0,0,not much,no
+less than 40,Male,yes,no,none,0.1333333333333333,no,yes,0.5714285714285714,0.7272727272727273,no,occasionally,sometimes,normal,0.0,0,not much,no
+50-59,Male,no,no,one hr or more,0.4,no,no,0.2857142857142857,0.36363636363636365,no,occasionally,very often,normal,0.0,0,not much,no
+40-49,Male,yes,yes,less than half an hr,0.3666666666666667,no,no,0.857142857142857,0.5454545454545454,yes,occasionally,very often,high,0.0,0,quite often,yes
+50-59,Female,yes,no,none,0.19999999999999996,no,no,0.5714285714285714,0.4545454545454546,yes,occasionally,sometimes,normal,0.0,0,not much,yes
+60 or older,Male,yes,no,one hr or more,0.3666666666666667,no,no,0.2857142857142857,0.4545454545454546,yes,occasionally,not at all,normal,0.0,0,not much,yes
+50-59,Male,yes,no,one hr or more,0.2666666666666666,yes,yes,0.1428571428571428,0.36363636363636365,yes,occasionally,very often,normal,0.0,0,not much,yes
+less than 40,Male,yes,yes,one hr or more,0.3666666666666667,yes,yes,0.1428571428571428,0.36363636363636365,yes,often,not at all,high,0.0,0,not much,yes
+60 or older,Female,yes,yes,less than half an hr,0.09999999999999998,no,no,0.0,0.2727272727272727,yes,occasionally,sometimes,high,0.0,0,not much,yes
+60 or older,Female,yes,yes,less than half an hr,0.1333333333333333,no,no,0.7142857142857142,0.8181818181818182,yes,occasionally,always,high,1.0,0,quite often,yes
+50-59,Male,yes,no,none,0.30000000000000004,no,yes,0.4285714285714286,0.6363636363636364,no,occasionally,always,normal,0.0,0,not much,no
+60 or older,Female,yes,yes,less than half an hr,0.6000000000000001,no,no,0.2857142857142857,0.4545454545454546,yes,occasionally,sometimes,high,0.5,0,not much,yes
+50-59,Male,yes,yes,none,0.5333333333333332,no,yes,0.4285714285714286,0.5454545454545454,yes,occasionally,always,high,0.0,0,not much,yes
+40-49,Female,no,no,none,0.2666666666666666,no,no,0.4285714285714286,0.6363636363636364,no,often,very often,normal,0.25,0,not much,no
+50-59,Male,yes,no,less than half an hr,0.2666666666666666,no,no,0.4285714285714286,0.6363636363636364,yes,occasionally,sometimes,normal,0.0,0,not much,yes
+50-59,Female,no,yes,none,0.16666666666666663,no,no,0.4285714285714286,0.36363636363636365,yes,occasionally,sometimes,high,0.25,0,not much,yes
+50-59,Male,no,no,more than half an hr,0.43333333333333335,no,yes,0.4285714285714286,0.36363636363636365,no,occasionally,sometimes,high,0.0,0,not much,no
+60 or older,Male,yes,yes,less than half an hr,0.3666666666666667,no,yes,0.2857142857142857,0.5454545454545454,yes,occasionally,not at all,high,0.0,0,not much,no
+less than 40,Male,no,no,one hr or more,0.30000000000000004,no,no,0.4285714285714286,0.6363636363636364,no,often,sometimes,normal,0.0,0,not much,no
+60 or older,Male,no,no,more than half an hr,0.30000000000000004,no,no,0.4285714285714286,0.6363636363636364,no,occasionally,sometimes,normal,0.0,0,quite often,yes
+less than 40,Female,no,no,less than half an hr,0.06666666666666665,no,no,0.0,0.36363636363636365,no,occasionally,sometimes,normal,0.0,0,quite often,no
+less than 40,Male,no,no,less than half an hr,0.43333333333333335,yes,yes,0.0,0.36363636363636365,no,occasionally,very often,normal,0.0,0,not much,no
+less than 40,Male,no,no,less than half an hr,0.2666666666666666,yes,no,0.2857142857142857,0.2727272727272727,no,occasionally,very often,normal,0.0,0,not much,no
+less than 40,Male,no,no,less than half an hr,0.30000000000000004,no,no,0.2857142857142857,0.5454545454545454,no,occasionally,not at all,normal,0.0,0,not much,no
+less than 40,Female,no,no,less than half an hr,0.1333333333333333,no,no,0.4285714285714286,0.2727272727272727,yes,occasionally,sometimes,normal,0.25,0,not much,no
+60 or older,Male,no,yes,less than half an hr,0.0,no,no,0.0,0.36363636363636365,yes,occasionally,very often,high,0.0,0,quite often,no
+less than 40,Male,no,no,less than half an hr,0.23333333333333328,no,no,0.2857142857142857,0.18181818181818182,no,often,not at all,normal,0.0,0,quite often,no
+less than 40,Male,yes,no,more than half an hr,0.2666666666666666,no,no,0.4285714285714286,0.2727272727272727,no,occasionally,sometimes,high,0.0,0,not much,no
+less than 40,Male,no,no,one hr or more,0.09999999999999998,no,no,0.5714285714285714,0.36363636363636365,no,occasionally,sometimes,normal,0.0,0,quite often,no
+less than 40,Male,no,no,more than half an hr,0.19999999999999996,no,no,0.1428571428571428,0.4545454545454546,no,very often,sometimes,normal,0.0,0,not much,no
+less than 40,Male,no,no,one hr or more,0.19999999999999996,no,no,0.4285714285714286,0.5454545454545454,yes,often,very often,normal,0.0,0,not much,no
+less than 40,Male,yes,no,one hr or more,0.19999999999999996,no,no,0.7142857142857142,0.5454545454545454,no,very often,sometimes,normal,0.0,0,not much,no
+less than 40,Male,no,no,one hr or more,0.23333333333333328,no,no,0.1428571428571428,0.18181818181818182,no,occasionally,sometimes,normal,0.0,0,not much,no
+less than 40,Male,no,no,one hr or more,0.33333333333333337,no,no,0.2857142857142857,0.5454545454545454,no,occasionally,sometimes,normal,0.0,0,not much,no
+50-59,Male,no,yes,less than half an hr,0.16666666666666663,yes,yes,0.2857142857142857,0.5454545454545454,no,occasionally,very often,high,0.0,0,quite often,no
+less than 40,Male,no,no,more than half an hr,0.30000000000000004,no,no,0.5714285714285714,0.4545454545454546,no,often,not at all,normal,0.0,0,not much,no
+less than 40,Female,no,no,less than half an hr,0.19999999999999996,no,no,0.5714285714285714,0.7272727272727273,no,occasionally,sometimes,normal,0.0,0,quite often,no
+50-59,Male,no,no,less than half an hr,0.3666666666666667,no,no,0.2857142857142857,0.5454545454545454,no,occasionally,sometimes,normal,0.0,0,not much,no
+50-59,Female,no,no,less than half an hr,0.4,no,no,0.5714285714285714,0.5454545454545454,no,occasionally,sometimes,low,0.25,0,not much,no
+less than 40,Female,no,no,one hr or more,0.3666666666666667,no,no,0.5714285714285714,0.5454545454545454,no,occasionally,sometimes,low,0.0,0,not much,no
+less than 40,Male,no,yes,less than half an hr,0.30000000000000004,no,no,0.5714285714285714,0.7272727272727273,no,occasionally,very often,normal,0.0,0,not much,no
+less than 40,Female,no,no,less than half an hr,0.19999999999999996,no,no,0.5714285714285714,0.7272727272727273,no,occasionally,not at all,normal,0.75,0,not much,yes
+40-49,Female,no,no,less than half an hr,0.23333333333333328,no,no,0.5714285714285714,0.7272727272727273,no,occasionally,not at all,normal,0.75,0,not much,no
+60 or older,Male,no,no,more than half an hr,0.2666666666666666,no,yes,0.4285714285714286,0.5454545454545454,yes,occasionally,very often,high,0.0,0,quite often,yes
+60 or older,Male,no,no,less than half an hr,0.43333333333333335,no,no,0.5714285714285714,0.7272727272727273,yes,occasionally,not at all,normal,0.0,0,quite often,yes
+60 or older,Male,yes,yes,less than half an hr,0.5666666666666667,no,no,0.5714285714285714,0.7272727272727273,no,often,very often,high,0.0,0,not much,yes
+40-49,Female,yes,no,less than half an hr,0.6000000000000001,no,no,0.2857142857142857,0.5454545454545454,no,very often,very often,normal,0.5,1,not much,yes
+less than 40,Female,yes,no,one hr or more,0.30000000000000004,no,no,0.5714285714285714,0.7272727272727273,no,often,sometimes,normal,0.0,0,not much,no
+50-59,Female,yes,no,less than half an hr,0.43333333333333335,no,no,0.4285714285714286,0.36363636363636365,yes,occasionally,very often,high,0.0,0,quite often,yes
+50-59,Male,no,no,less than half an hr,0.5,no,no,0.4285714285714286,0.18181818181818182,no,often,always,normal,0.0,0,not much,no
+50-59,Male,yes,yes,one hr or more,0.5,yes,yes,0.4285714285714286,0.6363636363636364,yes,often,always,high,0.0,0,quite often,yes
+less than 40,Female,yes,no,more than half an hr,0.4,no,no,0.4285714285714286,0.5454545454545454,no,occasionally,not at all,normal,0.0,0,not much,no
+less than 40,Female,no,no,more than half an hr,0.4,no,no,0.7142857142857142,0.5454545454545454,no,always,very often,high,0.0,0,not much,no
+less than 40,Male,no,no,one hr or more,0.23333333333333328,yes,no,0.7142857142857142,0.18181818181818182,no,always,always,high,0.0,0,quite often,no
+less than 40,Female,no,no,more than half an hr,0.2666666666666666,no,no,0.1428571428571428,0.36363636363636365,no,often,very often,normal,0.0,0,not much,no
+less than 40,Female,yes,no,more than half an hr,0.09999999999999998,no,no,0.4285714285714286,0.2727272727272727,yes,often,very often,normal,0.0,0,not much,no
+less than 40,Male,yes,no,more than half an hr,0.23333333333333328,no,no,0.4285714285714286,0.4545454545454546,no,often,very often,normal,0.0,0,not much,no
+60 or older,Male,yes,yes,more than half an hr,0.19999999999999996,no,yes,0.5714285714285714,0.36363636363636365,yes,occasionally,sometimes,normal,0.0,0,quite often,yes
+60 or older,Female,no,yes,one hr or more,0.3666666666666667,no,no,0.5714285714285714,0.5454545454545454,yes,occasionally,sometimes,normal,0.0,0,not much,yes
+50-59,Female,yes,yes,none,0.43333333333333335,no,no,0.2857142857142857,0.2727272727272727,yes,occasionally,always,high,0.5,0,not much,yes
+less than 40,Male,no,yes,more than half an hr,0.3666666666666667,no,no,0.2857142857142857,0.5454545454545454,no,occasionally,sometimes,normal,0.0,0,quite often,no
+50-59,Female,no,yes,less than half an hr,0.5333333333333332,no,no,0.4285714285714286,0.36363636363636365,yes,occasionally,very often,high,0.0,0,quite often,no
+50-59,Male,no,yes,less than half an hr,0.6000000000000001,no,yes,0.1428571428571428,0.4545454545454546,yes,occasionally,sometimes,high,0.0,0,not much,no
+less than 40,Female,no,yes,one hr or more,0.5,no,no,0.4285714285714286,0.2727272727272727,no,occasionally,sometimes,normal,0.0,0,not much,no
+less than 40,Female,yes,no,more than half an hr,0.2666666666666666,no,yes,0.2857142857142857,0.5454545454545454,no,often,very often,normal,0.0,0,not much,no
+less than 40,Female,yes,no,one hr or more,0.4666666666666667,no,no,0.2857142857142857,0.5454545454545454,no,often,sometimes,normal,0.5,0,quite often,no
+40-49,Female,yes,no,more than half an hr,0.06666666666666665,no,no,0.4285714285714286,0.6363636363636364,no,very often,sometimes,normal,0.75,0,not much,no
+50-59,Female,yes,no,less than half an hr,0.30000000000000004,no,no,0.5714285714285714,0.4545454545454546,yes,occasionally,sometimes,normal,0.5,0,not much,no
+60 or older,Male,yes,no,more than half an hr,0.3666666666666667,no,yes,0.5714285714285714,0.2727272727272727,yes,occasionally,sometimes,normal,0.0,0,quite often,yes
+less than 40,Female,yes,no,one hr or more,0.4,no,yes,0.5714285714285714,0.5454545454545454,no,very often,very often,normal,0.0,0,not much,no
+40-49,Male,yes,yes,more than half an hr,0.19999999999999996,no,no,0.2857142857142857,0.36363636363636365,yes,occasionally,sometimes,normal,0.0,0,not much,yes
+40-49,Female,yes,yes,less than half an hr,0.3666666666666667,no,no,0.4285714285714286,0.36363636363636365,no,occasionally,very often,high,0.0,0,quite often,no
+less than 40,Male,yes,no,one hr or more,0.16666666666666663,no,no,0.4285714285714286,0.5454545454545454,no,occasionally,not at all,normal,0.0,0,not much,no
+less than 40,Male,no,no,more than half an hr,0.23333333333333328,no,no,0.2857142857142857,0.5454545454545454,no,occasionally,sometimes,low,0.0,0,not much,no
+less than 40,Male,yes,no,more than half an hr,0.19999999999999996,yes,no,0.5714285714285714,0.7272727272727273,no,occasionally,very often,normal,0.0,0,not much,no
+less than 40,Female,yes,no,one hr or more,0.3666666666666667,no,no,0.4285714285714286,0.4545454545454546,no,often,sometimes,low,0.0,0,not much,no
+less than 40,Female,yes,no,none,0.19999999999999996,no,yes,0.7142857142857142,0.7272727272727273,no,occasionally,sometimes,normal,0.0,0,not much,no
+less than 40,Female,yes,no,none,0.19999999999999996,no,yes,0.5714285714285714,0.7272727272727273,no,occasionally,sometimes,normal,0.0,0,not much,no
+less than 40,Female,yes,no,more than half an hr,0.30000000000000004,no,no,0.5714285714285714,0.7272727272727273,yes,often,sometimes,normal,0.0,0,quite often,no
+less than 40,Male,no,no,more than half an hr,0.30000000000000004,yes,yes,0.4285714285714286,0.5454545454545454,no,often,sometimes,normal,0.0,0,not much,no
+less than 40,Male,no,no,less than half an hr,0.3666666666666667,no,yes,0.2857142857142857,0.36363636363636365,no,occasionally,very often,normal,0.0,0,not much,no
+50-59,Male,yes,no,less than half an hr,0.5666666666666667,no,no,0.5714285714285714,0.36363636363636365,yes,occasionally,sometimes,normal,0.0,0,not much,no
+40-49,Male,yes,no,more than half an hr,0.6333333333333333,no,no,0.4285714285714286,0.4545454545454546,no,often,sometimes,normal,0.0,0,quite often,no
+less than 40,Male,no,no,more than half an hr,0.5,no,no,0.4285714285714286,0.36363636363636365,no,occasionally,sometimes,normal,0.0,0,not much,no
+50-59,Female,no,yes,more than half an hr,0.8999999999999999,no,no,0.4285714285714286,0.2727272727272727,yes,occasionally,always,high,0.0,0,not much,no
+less than 40,Male,yes,no,less than half an hr,0.6000000000000001,no,no,0.5714285714285714,0.36363636363636365,no,occasionally,sometimes,normal,0.0,0,not much,no
+less than 40,Male,no,no,one hr or more,0.2666666666666666,no,no,0.4285714285714286,0.4545454545454546,no,occasionally,sometimes,normal,0.0,0,not much,no
+50-59,Male,yes,yes,more than half an hr,0.4,no,yes,0.4285714285714286,0.4545454545454546,no,occasionally,sometimes,high,0.0,0,not much,no
+40-49,Female,no,no,one hr or more,0.33333333333333337,no,no,0.1428571428571428,0.36363636363636365,no,occasionally,sometimes,normal,0.0,0,not much,no
+less than 40,Female,no,no,more than half an hr,0.43333333333333335,no,no,0.2857142857142857,0.4545454545454546,no,occasionally,sometimes,normal,0.0,0,not much,no
+40-49,Female,no,no,less than half an hr,0.43333333333333335,no,no,0.2857142857142857,0.36363636363636365,no,occasionally,sometimes,normal,0.0,0,not much,no
+40-49,Female,no,no,less than half an hr,0.6000000000000001,no,no,0.4285714285714286,0.4545454545454546,no,occasionally,sometimes,normal,0.0,0,not much,no
+50-59,Female,no,no,less than half an hr,0.6000000000000001,no,no,0.4285714285714286,0.4545454545454546,yes,occasionally,sometimes,normal,0.0,0,quite often,yes
+50-59,Female,no,no,more than half an hr,0.43333333333333335,no,no,0.4285714285714286,0.2727272727272727,no,occasionally,sometimes,normal,0.0,0,quite often,no
+less than 40,Female,no,no,less than half an hr,0.43333333333333335,no,no,0.2857142857142857,0.2727272727272727,no,occasionally,not at all,normal,0.0,0,quite often,no
+40-49,Female,yes,yes,more than half an hr,0.7,no,no,0.4285714285714286,0.5454545454545454,yes,occasionally,sometimes,normal,0.0,0,quite often,no
+less than 40,Female,no,no,more than half an hr,0.6000000000000001,no,no,0.5714285714285714,0.36363636363636365,no,occasionally,sometimes,normal,0.0,0,quite often,no
+less than 40,Female,no,no,less than half an hr,0.43333333333333335,no,no,0.2857142857142857,0.4545454545454546,no,occasionally,sometimes,normal,0.0,0,not much,no
+40-49,Male,yes,no,more than half an hr,0.43333333333333335,no,no,0.4285714285714286,0.4545454545454546,no,occasionally,sometimes,normal,0.0,0,quite often,no
+less than 40,Male,no,no,more than half an hr,0.6000000000000001,no,no,0.5714285714285714,0.36363636363636365,no,occasionally,sometimes,normal,0.0,0,not much,no
+40-49,Female,yes,no,less than half an hr,0.7666666666666666,no,no,0.4285714285714286,0.36363636363636365,no,occasionally,not at all,normal,0.0,0,quite often,no
+50-59,Female,no,yes,more than half an hr,0.6000000000000001,no,no,0.2857142857142857,0.36363636363636365,yes,occasionally,sometimes,high,0.0,0,quite often,no
+40-49,Male,no,no,less than half an hr,0.7666666666666666,no,no,0.1428571428571428,0.36363636363636365,yes,occasionally,sometimes,normal,0.0,0,quite often,no
+40-49,Female,yes,no,less than half an hr,0.7,no,no,0.4285714285714286,0.4545454545454546,no,occasionally,sometimes,normal,0.0,0,quite often,no
+less than 40,Female,yes,no,less than half an hr,0.6000000000000001,no,no,0.2857142857142857,0.36363636363636365,no,occasionally,very often,normal,0.0,0,quite often,no
+less than 40,Female,no,no,more than half an hr,0.6000000000000001,no,no,0.4285714285714286,0.36363636363636365,no,often,not at all,normal,0.0,0,quite often,no
+40-49,Female,no,no,less than half an hr,0.7666666666666666,no,no,0.2857142857142857,0.36363636363636365,no,occasionally,sometimes,normal,0.0,0,quite often,no
+40-49,Female,yes,no,more than half an hr,0.7,no,no,0.4285714285714286,0.2727272727272727,yes,occasionally,sometimes,normal,0.0,0,quite often,no
+less than 40,Female,no,no,less than half an hr,0.6000000000000001,no,no,0.4285714285714286,0.36363636363636365,no,occasionally,sometimes,normal,0.0,0,quite often,no
+50-59,Male,no,no,less than half an hr,0.7666666666666666,no,no,0.2857142857142857,0.2727272727272727,yes,occasionally,sometimes,normal,0.0,0,quite often,no
+60 or older,Female,yes,no,less than half an hr,0.7666666666666666,no,no,0.1428571428571428,0.18181818181818182,yes,occasionally,very often,high,0.0,0,quite often,yes
+60 or older,Male,no,yes,less than half an hr,0.6000000000000001,no,no,0.2857142857142857,0.18181818181818182,yes,occasionally,very often,high,0.0,0,quite often,yes
+less than 40,Female,no,no,less than half an hr,0.6000000000000001,no,no,0.5714285714285714,0.2727272727272727,no,occasionally,sometimes,normal,0.0,0,quite often,no
+less than 40,Female,yes,yes,more than half an hr,0.7666666666666666,no,no,0.5714285714285714,0.36363636363636365,yes,occasionally,sometimes,normal,0.0,0,quite often,no
+less than 40,Male,yes,no,less than half an hr,0.5666666666666667,no,no,0.2857142857142857,0.36363636363636365,no,often,sometimes,normal,0.0,0,quite often,no
+less than 40,Male,no,no,more than half an hr,0.6000000000000001,no,no,0.5714285714285714,0.2727272727272727,no,often,sometimes,normal,0.0,0,quite often,no
+40-49,Female,yes,no,none,0.23333333333333328,no,no,0.857142857142857,0.9090909090909092,yes,occasionally,always,normal,0.5,0,not much,no
+40-49,Male,yes,no,none,0.30000000000000004,no,no,0.5714285714285714,0.7272727272727273,no,occasionally,sometimes,normal,0.0,0,not much,yes
+60 or older,Female,yes,yes,more than half an hr,0.2666666666666666,no,no,0.7142857142857142,0.8181818181818182,yes,occasionally,always,high,0.75,0,quite often,yes
+60 or older,Female,yes,yes,less than half an hr,0.4,no,no,0.4285714285714286,0.6363636363636364,yes,occasionally,sometimes,high,0.75,0,quite often,yes
+60 or older,Male,yes,yes,more than half an hr,0.30000000000000004,no,yes,0.4285714285714286,0.6363636363636364,yes,occasionally,always,high,0.0,0,not much,yes
+less than 40,Female,yes,no,none,0.09999999999999998,no,no,0.5714285714285714,0.7272727272727273,yes,often,sometimes,normal,0.0,0,not much,no
+less than 40,Female,yes,no,none,0.16666666666666663,no,no,0.7142857142857142,0.8181818181818182,no,often,sometimes,normal,0.0,0,not much,no
+less than 40,Female,no,no,more than half an hr,0.1333333333333333,no,no,0.4285714285714286,0.6363636363636364,no,occasionally,sometimes,normal,0.0,0,not much,no
+less than 40,Male,yes,no,one hr or more,0.43333333333333335,yes,yes,0.4285714285714286,0.6363636363636364,no,often,not at all,normal,0.0,0,not much,yes
+less than 40,Female,no,no,less than half an hr,0.1333333333333333,no,no,0.5714285714285714,0.7272727272727273,no,occasionally,sometimes,normal,0.0,0,not much,no
+less than 40,Male,no,no,more than half an hr,0.33333333333333337,yes,yes,0.4285714285714286,0.4545454545454546,no,often,sometimes,normal,0.0,0,quite often,no
+less than 40,Male,no,no,less than half an hr,0.33333333333333337,no,yes,0.4285714285714286,0.6363636363636364,no,often,sometimes,normal,0.0,0,not much,no
+less than 40,Male,no,no,less than half an hr,0.30000000000000004,yes,yes,0.857142857142857,0.6363636363636364,no,always,always,normal,0.0,0,not much,no
+less than 40,Male,yes,yes,more than half an hr,0.4,no,no,0.4285714285714286,0.4545454545454546,no,occasionally,sometimes,high,0.0,0,not much,no
+less than 40,Male,yes,no,more than half an hr,0.1333333333333333,yes,yes,0.4285714285714286,0.4545454545454546,no,occasionally,not at all,normal,0.0,0,not much,no
+less than 40,Male,no,no,none,0.33333333333333337,yes,yes,0.857142857142857,0.9090909090909092,no,often,very often,normal,0.0,0,quite often,no
+less than 40,Male,no,no,less than half an hr,0.43333333333333335,no,no,0.5714285714285714,0.7272727272727273,yes,occasionally,sometimes,normal,0.0,0,quite often,no
+less than 40,Male,yes,no,one hr or more,0.33333333333333337,no,no,0.1428571428571428,0.4545454545454546,no,occasionally,sometimes,normal,0.0,0,not much,no
+less than 40,Male,yes,no,more than half an hr,0.30000000000000004,no,no,0.2857142857142857,0.4545454545454546,no,occasionally,sometimes,normal,0.0,0,not much,no
+less than 40,Female,yes,no,less than half an hr,0.19999999999999996,no,no,0.5714285714285714,0.6363636363636364,no,often,sometimes,normal,0.0,0,not much,no
+less than 40,Female,yes,no,more than half an hr,0.2666666666666666,no,no,0.7142857142857142,0.7272727272727273,no,often,sometimes,normal,0.0,0,not much,no
+less than 40,Male,no,yes,less than half an hr,0.43333333333333335,yes,yes,0.5714285714285714,0.36363636363636365,no,always,always,normal,0.0,0,not much,no
+less than 40,Male,no,no,less than half an hr,0.16666666666666663,no,no,0.4285714285714286,0.36363636363636365,no,often,sometimes,normal,0.0,0,quite often,no
+less than 40,Male,no,no,more than half an hr,0.09999999999999998,no,no,0.2857142857142857,0.09090909090909091,no,always,sometimes,normal,0.0,0,quite often,no
+less than 40,Male,no,no,one hr or more,0.33333333333333337,no,no,0.2857142857142857,0.5454545454545454,no,always,always,normal,0.0,0,not much,no
+less than 40,Male,yes,yes,less than half an hr,0.43333333333333335,no,no,0.2857142857142857,0.18181818181818182,no,occasionally,not at all,high,0.0,0,quite often,no
+less than 40,Male,yes,no,less than half an hr,0.4,yes,yes,0.2857142857142857,0.5454545454545454,no,always,sometimes,normal,0.0,0,quite often,no
+less than 40,Male,no,no,less than half an hr,0.16666666666666663,no,no,0.5714285714285714,0.5454545454545454,no,always,not at all,normal,0.0,0,not much,no
+less than 40,Male,yes,no,less than half an hr,0.16666666666666663,no,no,0.4285714285714286,0.36363636363636365,no,often,sometimes,normal,0.0,0,quite often,no
+less than 40,Male,no,yes,one hr or more,0.06666666666666665,no,no,0.5714285714285714,0.0,no,occasionally,not at all,normal,0.0,0,not much,no
+less than 40,Male,no,yes,less than half an hr,0.3666666666666667,no,no,0.2857142857142857,0.36363636363636365,no,very often,sometimes,normal,0.0,0,quite often,no
+less than 40,Male,no,no,more than half an hr,0.19999999999999996,no,no,0.4285714285714286,0.36363636363636365,no,occasionally,sometimes,normal,0.0,0,quite often,no
+less than 40,Male,yes,no,less than half an hr,0.4666666666666667,no,no,0.5714285714285714,0.6363636363636364,no,often,sometimes,low,0.0,0,not much,no
+less than 40,Male,yes,yes,more than half an hr,0.4666666666666667,no,yes,0.2857142857142857,0.36363636363636365,no,occasionally,sometimes,normal,0.0,0,quite often,no
+less than 40,Male,yes,no,more than half an hr,0.30000000000000004,yes,yes,0.5714285714285714,0.7272727272727273,no,occasionally,sometimes,high,0.0,0,not much,no
+less than 40,Male,yes,no,less than half an hr,0.2666666666666666,no,no,0.1428571428571428,0.4545454545454546,no,always,sometimes,normal,0.0,0,not much,no
+less than 40,Male,yes,no,less than half an hr,0.2666666666666666,no,no,0.1428571428571428,0.4545454545454546,no,occasionally,not at all,normal,0.0,0,not much,no
+less than 40,Female,yes,no,more than half an hr,0.4666666666666667,no,no,0.2857142857142857,0.2727272727272727,no,occasionally,sometimes,normal,0.0,0,quite often,no
+less than 40,Female,no,no,none,0.1333333333333333,no,no,0.7142857142857142,0.4545454545454546,no,very often,sometimes,normal,0.5,0,not much,no
+less than 40,Male,no,no,less than half an hr,0.2666666666666666,yes,yes,0.5714285714285714,0.5454545454545454,no,very often,sometimes,normal,0.0,0,not much,no
+less than 40,Male,no,no,one hr or more,0.06666666666666665,no,no,0.2857142857142857,0.5454545454545454,no,often,sometimes,normal,0.0,0,not much,no
+50-59,Female,yes,no,one hr or more,0.2666666666666666,no,no,0.2857142857142857,0.4545454545454546,no,occasionally,sometimes,high,0.5,0,not much,no
+40-49,Male,yes,no,less than half an hr,0.30000000000000004,no,no,0.4285714285714286,0.4545454545454546,no,occasionally,sometimes,normal,0.0,0,not much,no
+less than 40,Female,yes,no,less than half an hr,0.33333333333333337,no,no,0.5714285714285714,0.36363636363636365,yes,occasionally,sometimes,normal,0.0,0,not much,no
+50-59,Female,yes,no,less than half an hr,0.6666666666666667,no,no,0.5714285714285714,0.4545454545454546,yes,often,very often,normal,0.5,0,quite often,yes
+40-49,Female,yes,yes,more than half an hr,0.6000000000000001,no,no,0.4285714285714286,0.18181818181818182,yes,occasionally,sometimes,high,0.0,0,quite often,yes
+40-49,Female,yes,no,one hr or more,0.6333333333333333,no,no,0.2857142857142857,0.18181818181818182,yes,always,very often,normal,0.0,0,quite often,yes
+50-59,Male,yes,yes,more than half an hr,0.7,yes,no,0.2857142857142857,0.36363636363636365,yes,often,very often,high,0.0,0,not much,yes
+60 or older,Male,no,no,less than half an hr,0.5,no,yes,0.2857142857142857,0.18181818181818182,yes,often,always,high,0.0,0,not much,yes
+less than 40,Male,yes,no,one hr or more,0.43333333333333335,yes,yes,0.1428571428571428,0.2727272727272727,yes,always,always,normal,0.0,0,quite often,yes
+40-49,Male,yes,yes,less than half an hr,0.6666666666666667,yes,yes,0.1428571428571428,0.18181818181818182,yes,very often,sometimes,high,0.0,0,not much,yes
+40-49,Male,no,no,one hr or more,0.30000000000000004,no,yes,0.2857142857142857,0.4545454545454546,no,occasionally,not at all,normal,0.0,0,not much,no
+50-59,Female,no,yes,one hr or more,0.23333333333333328,no,no,0.5714285714285714,0.4545454545454546,yes,occasionally,always,normal,0.75,0,not much,yes
+less than 40,Male,no,no,less than half an hr,0.5,no,yes,0.5714285714285714,0.7272727272727273,yes,occasionally,sometimes,normal,0.0,0,not much,yes
+40-49,Male,yes,yes,one hr or more,0.23333333333333328,no,no,0.4285714285714286,0.5454545454545454,yes,occasionally,sometimes,high,0.0,0,not much,yes
+less than 40,Male,yes,no,more than half an hr,0.23333333333333328,no,no,0.5714285714285714,0.5454545454545454,no,often,sometimes,normal,0.0,0,not much,yes
+60 or older,Male,yes,yes,more than half an hr,0.4,no,no,0.2857142857142857,0.4545454545454546,yes,occasionally,sometimes,high,0.0,0,quite often,yes
+60 or older,Male,no,yes,none,0.2666666666666666,no,no,0.2857142857142857,0.4545454545454546,yes,occasionally,sometimes,high,0.0,0,not much,no
+60 or older,Male,no,yes,less than half an hr,0.4,no,yes,0.2857142857142857,0.4545454545454546,yes,occasionally,very often,high,0.0,0,not much,yes
+60 or older,Female,yes,yes,one hr or more,0.4666666666666667,no,no,0.4285714285714286,0.36363636363636365,yes,occasionally,sometimes,high,0.5,0,quite often,yes
+50-59,Male,no,yes,one hr or more,0.8,no,no,0.5714285714285714,0.5454545454545454,no,occasionally,sometimes,high,0.0,0,not much,no
+50-59,Male,no,yes,less than half an hr,0.43333333333333335,no,no,0.5714285714285714,0.5454545454545454,yes,very often,sometimes,normal,0.0,0,not much,no
+40-49,Male,no,no,one hr or more,0.30000000000000004,no,no,0.2857142857142857,0.5454545454545454,no,occasionally,sometimes,normal,0.0,0,not much,no
+50-59,Male,no,no,one hr or more,0.2666666666666666,no,no,0.5714285714285714,0.5454545454545454,no,occasionally,sometimes,normal,0.0,0,not much,no
+40-49,Male,no,no,less than half an hr,0.4,no,no,0.5714285714285714,0.7272727272727273,no,occasionally,sometimes,normal,0.0,0,not much,no
+40-49,Male,no,yes,none,0.19999999999999996,no,yes,0.857142857142857,0.9090909090909092,no,occasionally,sometimes,high,0.0,0,not much,yes
+less than 40,Male,no,no,one hr or more,0.30000000000000004,no,no,0.5714285714285714,0.7272727272727273,no,occasionally,sometimes,normal,0.0,0,not much,no
+less than 40,Male,no,no,less than half an hr,0.16666666666666663,no,no,0.4285714285714286,0.6363636363636364,yes,occasionally,sometimes,low,0.0,0,not much,no
+40-49,Male,yes,no,one hr or more,0.2666666666666666,no,no,0.4285714285714286,0.6363636363636364,no,occasionally,sometimes,normal,0.0,0,not much,no
+less than 40,Male,no,no,more than half an hr,0.16666666666666663,no,no,0.5714285714285714,0.7272727272727273,no,occasionally,sometimes,normal,0.0,0,not much,no
+less than 40,Male,no,no,none,0.16666666666666663,no,no,0.4285714285714286,0.6363636363636364,no,occasionally,not at all,normal,0.0,0,not much,no
+40-49,Male,no,no,less than half an hr,0.3666666666666667,yes,no,0.5714285714285714,0.6363636363636364,no,occasionally,sometimes,normal,0.0,0,not much,no
+less than 40,Female,no,no,less than half an hr,0.19999999999999996,no,no,0.2857142857142857,0.5454545454545454,no,occasionally,sometimes,normal,0.25,0,not much,no
+less than 40,Female,no,no,one hr or more,0.23333333333333328,no,no,0.5714285714285714,0.6363636363636364,no,occasionally,very often,normal,0.5,0,not much,no
+less than 40,Male,no,no,one hr or more,0.0,no,no,0.4285714285714286,0.6363636363636364,no,occasionally,very often,normal,0.0,0,not much,no
+40-49,Female,yes,no,none,0.6333333333333333,no,no,0.2857142857142857,0.5454545454545454,no,occasionally,sometimes,normal,0.75,0,not much,no
+50-59,Male,yes,no,more than half an hr,0.23333333333333328,no,no,0.4285714285714286,0.5454545454545454,no,occasionally,sometimes,normal,0.0,0,not much,no
+less than 40,Female,no,no,more than half an hr,0.30000000000000004,no,no,0.2857142857142857,0.5454545454545454,no,occasionally,sometimes,normal,0.5,0,quite often,no
+40-49,Male,yes,no,one hr or more,0.30000000000000004,no,no,1.0,1.0,no,occasionally,sometimes,normal,0.0,0,not much,no
+less than 40,Male,yes,no,one hr or more,0.23333333333333328,no,no,0.5714285714285714,0.5454545454545454,no,often,not at all,normal,0.0,0,not much,no
+less than 40,Male,yes,no,one hr or more,0.5,no,yes,0.7142857142857142,0.7272727272727273,no,occasionally,sometimes,normal,0.0,0,not much,no
+less than 40,Female,yes,no,one hr or more,0.30000000000000004,no,no,0.0,0.36363636363636365,yes,often,always,normal,0.75,0,quite often,yes
+less than 40,Female,yes,no,one hr or more,0.30000000000000004,no,no,0.0,0.36363636363636365,yes,often,always,normal,0.75,0,not much,yes
+less than 40,Female,no,no,one hr or more,0.16666666666666663,no,no,0.7142857142857142,0.8181818181818182,no,occasionally,sometimes,normal,0.5,0,not much,no
+less than 40,Male,yes,no,more than half an hr,0.30000000000000004,yes,no,0.5714285714285714,0.7272727272727273,no,occasionally,sometimes,normal,0.0,0,not much,no
+less than 40,Female,no,no,more than half an hr,0.19999999999999996,no,no,0.4285714285714286,0.6363636363636364,no,often,not at all,normal,0.0,0,not much,no
+less than 40,Female,no,no,one hr or more,0.16666666666666663,no,no,0.2857142857142857,0.5454545454545454,no,very often,not at all,normal,0.0,0,not much,no
+50-59,Male,yes,no,one hr or more,0.4,no,no,0.4285714285714286,0.6363636363636364,no,very often,not at all,normal,0.0,0,not much,yes
+40-49,Male,yes,no,none,0.4666666666666667,no,no,0.2857142857142857,0.5454545454545454,no,occasionally,not at all,normal,0.0,0,not much,no
+60 or older,Female,no,no,none,0.09999999999999998,no,no,0.2857142857142857,0.5454545454545454,yes,occasionally,sometimes,normal,0.75,0,quite often,yes
+less than 40,Female,no,no,one hr or more,0.5666666666666667,no,no,0.5714285714285714,0.7272727272727273,yes,occasionally,sometimes,normal,0.75,0,not much,no
+40-49,Female,no,no,one hr or more,0.19999999999999996,no,no,0.4285714285714286,0.6363636363636364,no,occasionally,sometimes,normal,0.75,0,quite often,no
+60 or older,Male,no,yes,none,0.3666666666666667,no,no,0.0,0.36363636363636365,yes,occasionally,not at all,high,0.0,0,not much,yes
+60 or older,Female,yes,no,more than half an hr,0.5333333333333332,no,no,0.5714285714285714,0.6363636363636364,yes,occasionally,not at all,normal,0.75,0,not much,yes
+60 or older,Female,yes,no,none,0.3666666666666667,no,no,0.4285714285714286,0.6363636363636364,no,occasionally,sometimes,normal,0.75,0,not much,yes
+60 or older,Male,yes,no,none,0.19999999999999996,no,no,0.5714285714285714,0.7272727272727273,yes,occasionally,not at all,normal,0.0,0,not much,yes
+40-49,Female,yes,no,more than half an hr,0.43333333333333335,no,no,0.5714285714285714,0.5454545454545454,yes,occasionally,always,normal,0.5,0,not much,yes
+50-59,Male,no,yes,one hr or more,0.30000000000000004,no,no,0.5714285714285714,0.7272727272727273,yes,occasionally,sometimes,high,0.0,0,not much,yes
+40-49,Male,no,yes,more than half an hr,0.4,no,no,0.5714285714285714,0.7272727272727273,yes,occasionally,not at all,high,0.0,0,not much,yes
+40-49,Male,no,no,more than half an hr,0.19999999999999996,no,no,0.2857142857142857,0.5454545454545454,yes,occasionally,sometimes,normal,0.0,0,not much,yes
+60 or older,Male,no,no,none,0.4,no,no,0.2857142857142857,0.5454545454545454,no,occasionally,sometimes,normal,0.0,0,not much,no
+60 or older,Male,no,no,none,0.30000000000000004,no,no,0.2857142857142857,0.5454545454545454,no,occasionally,sometimes,normal,0.0,0,not much,yes
+less than 40,Male,yes,no,more than half an hr,0.7,no,no,0.2857142857142857,0.36363636363636365,no,occasionally,sometimes,normal,0.0,0,not much,no
+less than 40,Male,yes,no,less than half an hr,0.19999999999999996,no,no,0.2857142857142857,0.5454545454545454,no,occasionally,not at all,normal,0.0,0,not much,no
+40-49,Male,yes,no,less than half an hr,0.23333333333333328,no,no,0.2857142857142857,0.5454545454545454,yes,occasionally,sometimes,normal,0.0,0,not much,no
+40-49,Male,yes,no,less than half an hr,0.19999999999999996,no,no,0.2857142857142857,0.5454545454545454,no,occasionally,sometimes,low,0.0,0,not much,no
+50-59,Male,yes,no,one hr or more,0.7666666666666666,no,yes,0.5714285714285714,0.5454545454545454,yes,occasionally,very often,normal,0.0,0,not much,yes
+50-59,Female,yes,yes,more than half an hr,0.8333333333333333,no,no,0.7142857142857142,0.4545454545454546,yes,very often,sometimes,high,0.5,1,not much,yes
+60 or older,Male,yes,no,none,0.6666666666666667,no,no,0.1428571428571428,0.4545454545454546,no,occasionally,sometimes,high,0.0,0,quite often,yes
+60 or older,Female,yes,yes,none,0.30000000000000004,no,no,0.0,0.36363636363636365,yes,occasionally,always,high,0.75,0,quite often,yes
+60 or older,Male,no,no,none,0.09999999999999998,no,no,0.1428571428571428,0.4545454545454546,no,occasionally,sometimes,normal,0.0,0,not much,no
+40-49,Male,no,no,more than half an hr,0.2666666666666666,no,no,0.4285714285714286,0.36363636363636365,no,often,sometimes,normal,0.5,0,not much,no
+60 or older,Male,no,yes,less than half an hr,0.1333333333333333,no,yes,0.2857142857142857,0.5454545454545454,yes,often,sometimes,high,0.25,0,not much,yes
+less than 40,Male,no,no,more than half an hr,0.3666666666666667,yes,yes,0.5714285714285714,0.5454545454545454,no,occasionally,sometimes,normal,0.0,0,not much,no
+less than 40,Male,no,no,more than half an hr,0.5,yes,yes,0.1428571428571428,0.4545454545454546,yes,often,not at all,normal,0.25,0,not much,no
+60 or older,Female,no,yes,less than half an hr,0.4,no,no,0.2857142857142857,0.5454545454545454,yes,occasionally,always,high,0.0,0,quite often,yes
+less than 40,Male,no,no,none,0.09999999999999998,yes,yes,0.4285714285714286,0.5454545454545454,no,occasionally,very often,normal,0.0,0,not much,no
+less than 40,Male,no,no,less than half an hr,0.4666666666666667,yes,yes,0.2857142857142857,0.4545454545454546,yes,often,very often,normal,0.0,0,not much,no
+50-59,Male,no,yes,less than half an hr,0.1333333333333333,no,yes,0.2857142857142857,0.5454545454545454,yes,occasionally,very often,high,0.0,0,not much,no
+50-59,Female,yes,no,none,0.19999999999999996,no,no,0.5714285714285714,0.7272727272727273,yes,occasionally,very often,normal,0.0,0,quite often,yes
+less than 40,Male,no,no,none,0.30000000000000004,no,no,0.857142857142857,0.9090909090909092,no,occasionally,not at all,normal,0.0,0,not much,no
+60 or older,Male,no,no,none,0.5333333333333332,no,no,0.2857142857142857,0.5454545454545454,no,occasionally,very often,normal,0.0,0,not much,no
+less than 40,Male,yes,no,more than half an hr,0.23333333333333328,no,no,0.5714285714285714,0.7272727272727273,no,occasionally,very often,normal,0.0,0,not much,no
+less than 40,Male,yes,no,none,0.1333333333333333,no,yes,0.5714285714285714,0.7272727272727273,no,occasionally,sometimes,normal,0.0,0,not much,no
+50-59,Male,no,no,one hr or more,0.4,no,no,0.2857142857142857,0.36363636363636365,no,occasionally,very often,normal,0.0,0,not much,no
+40-49,Male,yes,yes,less than half an hr,0.3666666666666667,no,no,0.857142857142857,0.5454545454545454,yes,occasionally,very often,high,0.0,0,quite often,yes
+50-59,Female,yes,no,none,0.19999999999999996,no,no,0.5714285714285714,0.4545454545454546,yes,occasionally,sometimes,normal,0.0,0,not much,yes
+60 or older,Male,yes,no,one hr or more,0.3666666666666667,no,no,0.2857142857142857,0.4545454545454546,yes,occasionally,not at all,normal,0.0,0,not much,yes
+50-59,Male,yes,no,one hr or more,0.2666666666666666,yes,yes,0.1428571428571428,0.36363636363636365,yes,occasionally,very often,normal,0.0,0,not much,yes
+less than 40,Male,yes,yes,one hr or more,0.3666666666666667,yes,yes,0.1428571428571428,0.36363636363636365,yes,often,not at all,high,0.0,0,not much,yes
+60 or older,Female,yes,yes,less than half an hr,0.09999999999999998,no,no,0.0,0.2727272727272727,yes,occasionally,sometimes,high,0.0,0,not much,yes
+60 or older,Female,yes,yes,less than half an hr,0.1333333333333333,no,no,0.7142857142857142,0.8181818181818182,yes,occasionally,always,high,1.0,0,quite often,yes
+50-59,Male,yes,no,none,0.30000000000000004,no,yes,0.4285714285714286,0.6363636363636364,no,occasionally,always,normal,0.0,0,not much,no
+60 or older,Female,yes,yes,less than half an hr,0.6000000000000001,no,no,0.2857142857142857,0.4545454545454546,yes,occasionally,sometimes,high,0.5,0,not much,yes
+50-59,Male,yes,yes,none,0.5333333333333332,no,yes,0.4285714285714286,0.5454545454545454,yes,occasionally,always,high,0.0,0,not much,yes
+40-49,Female,no,no,none,0.2666666666666666,no,no,0.4285714285714286,0.6363636363636364,no,often,very often,normal,0.25,0,not much,no
+50-59,Male,yes,no,less than half an hr,0.2666666666666666,no,no,0.4285714285714286,0.6363636363636364,yes,occasionally,sometimes,normal,0.0,0,not much,yes
+50-59,Female,no,yes,none,0.16666666666666663,no,no,0.4285714285714286,0.36363636363636365,yes,occasionally,sometimes,high,0.25,0,not much,yes
+50-59,Male,no,no,more than half an hr,0.43333333333333335,no,yes,0.4285714285714286,0.36363636363636365,no,occasionally,sometimes,high,0.0,0,not much,no
+60 or older,Male,yes,yes,less than half an hr,0.3666666666666667,no,yes,0.2857142857142857,0.5454545454545454,yes,occasionally,not at all,high,0.0,0,not much,no
+less than 40,Male,no,no,one hr or more,0.30000000000000004,no,no,0.4285714285714286,0.6363636363636364,no,often,sometimes,normal,0.0,0,not much,no
+60 or older,Male,no,no,more than half an hr,0.30000000000000004,no,no,0.4285714285714286,0.6363636363636364,no,occasionally,sometimes,normal,0.0,0,quite often,yes
+less than 40,Female,no,no,less than half an hr,0.06666666666666665,no,no,0.0,0.36363636363636365,no,occasionally,sometimes,normal,0.0,0,quite often,no
+less than 40,Male,no,no,less than half an hr,0.43333333333333335,yes,yes,0.0,0.36363636363636365,no,occasionally,very often,normal,0.0,0,not much,no
+less than 40,Male,no,no,less than half an hr,0.2666666666666666,yes,no,0.2857142857142857,0.2727272727272727,no,occasionally,very often,normal,0.0,0,not much,no
+less than 40,Male,no,no,less than half an hr,0.30000000000000004,no,no,0.2857142857142857,0.5454545454545454,no,occasionally,not at all,normal,0.0,0,not much,no
+less than 40,Female,no,no,less than half an hr,0.1333333333333333,no,no,0.4285714285714286,0.2727272727272727,yes,occasionally,sometimes,normal,0.25,0,not much,no
+60 or older,Male,no,yes,less than half an hr,0.0,no,no,0.0,0.36363636363636365,yes,occasionally,very often,high,0.0,0,quite often,no
+less than 40,Male,no,no,less than half an hr,0.23333333333333328,no,no,0.2857142857142857,0.18181818181818182,no,often,not at all,normal,0.0,0,quite often,no
+less than 40,Male,yes,no,more than half an hr,0.2666666666666666,no,no,0.4285714285714286,0.2727272727272727,no,occasionally,sometimes,high,0.0,0,not much,no
+less than 40,Male,no,no,one hr or more,0.09999999999999998,no,no,0.5714285714285714,0.36363636363636365,no,occasionally,sometimes,normal,0.0,0,quite often,no
+less than 40,Male,no,no,more than half an hr,0.19999999999999996,no,no,0.1428571428571428,0.4545454545454546,no,very often,sometimes,normal,0.0,0,not much,no
+less than 40,Male,no,no,one hr or more,0.19999999999999996,no,no,0.4285714285714286,0.5454545454545454,yes,often,very often,normal,0.0,0,not much,no
+less than 40,Male,yes,no,one hr or more,0.19999999999999996,no,no,0.7142857142857142,0.5454545454545454,no,very often,sometimes,normal,0.0,0,not much,no
+less than 40,Male,no,no,one hr or more,0.23333333333333328,no,no,0.1428571428571428,0.18181818181818182,no,occasionally,sometimes,normal,0.0,0,not much,no
+less than 40,Male,no,no,one hr or more,0.33333333333333337,no,no,0.2857142857142857,0.5454545454545454,no,occasionally,sometimes,normal,0.0,0,not much,no
+50-59,Male,no,yes,less than half an hr,0.16666666666666663,yes,yes,0.2857142857142857,0.5454545454545454,no,occasionally,very often,high,0.0,0,quite often,no
+less than 40,Male,no,no,more than half an hr,0.30000000000000004,no,no,0.5714285714285714,0.4545454545454546,no,often,not at all,normal,0.0,0,not much,no
+less than 40,Female,no,no,less than half an hr,0.19999999999999996,no,no,0.5714285714285714,0.7272727272727273,no,occasionally,sometimes,normal,0.0,0,quite often,no
+50-59,Male,no,no,less than half an hr,0.3666666666666667,no,no,0.2857142857142857,0.5454545454545454,no,occasionally,sometimes,normal,0.0,0,not much,no
+50-59,Female,no,no,less than half an hr,0.4,no,no,0.5714285714285714,0.5454545454545454,no,occasionally,sometimes,low,0.25,0,not much,no
+less than 40,Female,no,no,one hr or more,0.3666666666666667,no,no,0.5714285714285714,0.5454545454545454,no,occasionally,sometimes,low,0.0,0,not much,no
+less than 40,Male,no,yes,less than half an hr,0.30000000000000004,no,no,0.5714285714285714,0.7272727272727273,no,occasionally,very often,normal,0.0,0,not much,no
+less than 40,Female,no,no,less than half an hr,0.19999999999999996,no,no,0.5714285714285714,0.7272727272727273,no,occasionally,not at all,normal,0.75,1,not much,yes
+40-49,Female,no,no,less than half an hr,0.23333333333333328,no,no,0.5714285714285714,0.7272727272727273,no,occasionally,not at all,normal,0.75,0,not much,no
+60 or older,Male,no,no,more than half an hr,0.2666666666666666,no,yes,0.4285714285714286,0.5454545454545454,yes,occasionally,very often,high,0.0,0,quite often,yes
+60 or older,Male,no,no,less than half an hr,0.43333333333333335,no,no,0.5714285714285714,0.7272727272727273,yes,occasionally,not at all,normal,0.0,0,quite often,yes
+60 or older,Male,yes,yes,less than half an hr,0.5666666666666667,no,no,0.5714285714285714,0.7272727272727273,no,often,very often,high,0.0,0,not much,yes
+40-49,Female,yes,no,less than half an hr,0.6000000000000001,no,no,0.2857142857142857,0.5454545454545454,no,very often,very often,normal,0.5,1,not much,yes
+less than 40,Female,yes,no,one hr or more,0.30000000000000004,no,no,0.5714285714285714,0.7272727272727273,no,often,sometimes,normal,0.0,0,not much,no
+50-59,Female,yes,no,less than half an hr,0.43333333333333335,no,no,0.4285714285714286,0.36363636363636365,yes,occasionally,very often,high,0.0,0,quite often,yes
+50-59,Male,no,no,less than half an hr,0.5,no,no,0.4285714285714286,0.18181818181818182,no,often,always,normal,0.0,0,not much,no
+50-59,Male,yes,yes,one hr or more,0.5,yes,yes,0.4285714285714286,0.6363636363636364,yes,often,always,high,0.0,0,quite often,yes
+less than 40,Female,yes,no,more than half an hr,0.4,no,no,0.4285714285714286,0.5454545454545454,no,occasionally,not at all,normal,0.0,0,not much,no
+less than 40,Female,no,no,more than half an hr,0.4,no,no,0.7142857142857142,0.5454545454545454,no,always,very often,high,0.0,0,not much,no
+less than 40,Male,no,no,one hr or more,0.23333333333333328,yes,no,0.7142857142857142,0.18181818181818182,no,always,always,high,0.0,0,quite often,no
+less than 40,Female,no,no,more than half an hr,0.2666666666666666,no,no,0.1428571428571428,0.36363636363636365,no,often,very often,normal,0.0,0,not much,no
+less than 40,Female,yes,no,more than half an hr,0.09999999999999998,no,no,0.4285714285714286,0.2727272727272727,yes,often,very often,normal,0.0,0,not much,no
+less than 40,Male,yes,no,more than half an hr,0.23333333333333328,no,no,0.4285714285714286,0.4545454545454546,no,often,very often,normal,0.0,0,not much,no
+60 or older,Male,yes,yes,more than half an hr,0.19999999999999996,no,yes,0.5714285714285714,0.36363636363636365,yes,occasionally,sometimes,normal,0.0,0,quite often,no
+60 or older,Female,no,yes,one hr or more,0.3666666666666667,no,no,0.5714285714285714,0.5454545454545454,yes,occasionally,sometimes,normal,0.0,0,not much,yes
+50-59,Female,yes,yes,none,0.43333333333333335,no,no,0.2857142857142857,0.2727272727272727,yes,occasionally,always,high,0.5,0,not much,yes
+less than 40,Male,no,yes,more than half an hr,0.3666666666666667,no,no,0.2857142857142857,0.5454545454545454,no,occasionally,sometimes,normal,0.0,0,quite often,no
+50-59,Female,no,yes,less than half an hr,0.5333333333333332,no,no,0.4285714285714286,0.36363636363636365,yes,occasionally,very often,high,0.0,0,quite often,no
+50-59,Male,no,yes,less than half an hr,0.6000000000000001,no,yes,0.1428571428571428,0.4545454545454546,yes,occasionally,sometimes,high,0.0,0,not much,no
+less than 40,Female,no,yes,one hr or more,0.5,no,no,0.4285714285714286,0.2727272727272727,no,occasionally,sometimes,normal,0.0,0,not much,no
+less than 40,Female,yes,no,more than half an hr,0.2666666666666666,no,yes,0.2857142857142857,0.5454545454545454,no,often,very often,normal,0.0,0,not much,no
+less than 40,Female,yes,no,one hr or more,0.4666666666666667,no,no,0.2857142857142857,0.5454545454545454,no,often,sometimes,normal,0.5,0,quite often,no
+40-49,Female,yes,no,more than half an hr,0.06666666666666665,no,no,0.4285714285714286,0.6363636363636364,no,very often,sometimes,normal,0.75,0,not much,no
+50-59,Female,yes,no,less than half an hr,0.30000000000000004,no,no,0.5714285714285714,0.4545454545454546,yes,occasionally,sometimes,normal,0.5,0,not much,no
+60 or older,Male,yes,no,more than half an hr,0.3666666666666667,no,yes,0.5714285714285714,0.2727272727272727,yes,occasionally,sometimes,normal,0.0,0,quite often,yes
+less than 40,Female,yes,no,one hr or more,0.4,no,yes,0.5714285714285714,0.5454545454545454,no,very often,very often,normal,0.0,0,not much,no
+40-49,Male,yes,yes,more than half an hr,0.19999999999999996,no,no,0.2857142857142857,0.36363636363636365,yes,occasionally,sometimes,normal,0.0,0,not much,yes
+40-49,Female,yes,yes,less than half an hr,0.3666666666666667,no,no,0.4285714285714286,0.36363636363636365,no,occasionally,very often,high,0.0,0,quite often,no
+less than 40,Male,yes,no,one hr or more,0.16666666666666663,no,no,0.4285714285714286,0.5454545454545454,no,occasionally,not at all,normal,0.0,0,not much,no
+less than 40,Male,no,no,more than half an hr,0.2666666666666666,no,no,0.2857142857142857,0.5454545454545454,no,occasionally,sometimes,low,0.0,0,not much,no
+less than 40,Male,yes,no,more than half an hr,0.19999999999999996,yes,no,0.5714285714285714,0.7272727272727273,no,occasionally,very often,normal,0.0,0,not much,no
+less than 40,Female,yes,no,one hr or more,0.3666666666666667,no,no,0.4285714285714286,0.4545454545454546,no,often,sometimes,low,0.0,0,not much,no
+less than 40,Female,yes,no,none,0.19999999999999996,no,yes,0.7142857142857142,0.7272727272727273,no,occasionally,sometimes,normal,0.0,0,not much,no
+less than 40,Female,yes,no,none,0.19999999999999996,no,yes,0.5714285714285714,0.7272727272727273,no,occasionally,sometimes,normal,0.0,0,not much,no
+less than 40,Female,yes,no,more than half an hr,0.30000000000000004,no,no,0.5714285714285714,0.7272727272727273,yes,often,sometimes,normal,0.0,0,quite often,no
+less than 40,Male,no,no,more than half an hr,0.30000000000000004,yes,yes,0.4285714285714286,0.5454545454545454,no,often,sometimes,normal,0.0,0,not much,no
+less than 40,Male,no,no,less than half an hr,0.3666666666666667,no,yes,0.2857142857142857,0.36363636363636365,no,occasionally,very often,normal,0.0,0,not much,no
+50-59,Male,yes,no,less than half an hr,0.5666666666666667,no,no,0.5714285714285714,0.36363636363636365,yes,occasionally,sometimes,normal,0.0,0,not much,no
+40-49,Male,yes,no,more than half an hr,0.6333333333333333,no,no,0.4285714285714286,0.4545454545454546,no,often,sometimes,normal,0.0,0,quite often,no
+less than 40,Male,no,no,more than half an hr,0.5,no,no,0.4285714285714286,0.36363636363636365,no,occasionally,sometimes,normal,0.0,0,not much,no
+50-59,Female,no,yes,more than half an hr,1.0,no,no,0.4285714285714286,0.2727272727272727,yes,occasionally,always,high,0.0,0,not much,yes
+less than 40,Male,yes,no,less than half an hr,0.6000000000000001,no,no,0.5714285714285714,0.36363636363636365,no,occasionally,sometimes,normal,0.0,0,not much,no
+less than 40,Male,no,no,one hr or more,0.2666666666666666,no,no,0.4285714285714286,0.4545454545454546,no,occasionally,sometimes,normal,0.0,0,not much,no
+50-59,Male,yes,yes,more than half an hr,0.4,no,yes,0.4285714285714286,0.4545454545454546,no,occasionally,sometimes,high,0.0,0,not much,no
+40-49,Female,no,no,one hr or more,0.33333333333333337,no,no,0.1428571428571428,0.36363636363636365,no,occasionally,sometimes,normal,0.0,0,not much,no
+less than 40,Female,no,no,more than half an hr,0.43333333333333335,no,no,0.2857142857142857,0.4545454545454546,no,occasionally,sometimes,normal,0.0,0,not much,no
+40-49,Female,no,no,less than half an hr,0.43333333333333335,no,no,0.2857142857142857,0.36363636363636365,no,occasionally,sometimes,normal,0.0,0,not much,no
+40-49,Female,no,no,less than half an hr,0.6000000000000001,no,no,0.4285714285714286,0.4545454545454546,no,occasionally,sometimes,normal,0.0,0,not much,no
+50-59,Female,no,no,less than half an hr,0.6000000000000001,no,no,0.4285714285714286,0.4545454545454546,yes,occasionally,sometimes,normal,0.0,0,quite often,no
+50-59,Female,no,no,more than half an hr,0.43333333333333335,no,no,0.4285714285714286,0.2727272727272727,no,occasionally,sometimes,normal,0.0,0,quite often,no
+less than 40,Female,no,no,less than half an hr,0.43333333333333335,no,no,0.2857142857142857,0.2727272727272727,no,occasionally,not at all,normal,0.0,0,quite often,no
+40-49,Female,yes,yes,more than half an hr,0.7,no,no,0.4285714285714286,0.5454545454545454,yes,occasionally,sometimes,normal,0.0,0,quite often,no
+less than 40,Female,no,no,more than half an hr,0.6000000000000001,no,no,0.5714285714285714,0.36363636363636365,no,occasionally,sometimes,normal,0.0,0,quite often,no
+less than 40,Female,no,no,less than half an hr,0.43333333333333335,no,no,0.2857142857142857,0.4545454545454546,no,occasionally,sometimes,normal,0.0,0,not much,no
+40-49,Male,yes,no,more than half an hr,0.43333333333333335,no,no,0.4285714285714286,0.4545454545454546,no,occasionally,sometimes,normal,0.0,0,quite often,no
+less than 40,Male,no,no,more than half an hr,0.6000000000000001,no,no,0.5714285714285714,0.36363636363636365,no,occasionally,sometimes,normal,0.0,0,not much,no
+40-49,Female,yes,no,less than half an hr,0.7666666666666666,no,no,0.4285714285714286,0.36363636363636365,no,occasionally,not at all,normal,0.0,0,quite often,no
+50-59,Female,no,yes,more than half an hr,0.6000000000000001,no,no,0.2857142857142857,0.36363636363636365,yes,occasionally,sometimes,high,0.0,0,quite often,no
+40-49,Male,no,no,less than half an hr,0.7666666666666666,no,no,0.1428571428571428,0.36363636363636365,yes,occasionally,sometimes,normal,0.0,0,quite often,no
+40-49,Female,yes,no,less than half an hr,0.7,no,no,0.4285714285714286,0.4545454545454546,no,occasionally,sometimes,normal,0.0,0,quite often,no
+less than 40,Female,yes,no,less than half an hr,0.6000000000000001,no,no,0.2857142857142857,0.36363636363636365,no,occasionally,very often,normal,0.0,0,quite often,no
+less than 40,Female,no,no,more than half an hr,0.6000000000000001,no,no,0.4285714285714286,0.36363636363636365,no,often,not at all,normal,0.0,0,quite often,no
+40-49,Female,no,no,less than half an hr,0.7666666666666666,no,no,0.2857142857142857,0.36363636363636365,no,occasionally,sometimes,normal,0.0,0,quite often,no
+40-49,Female,yes,no,more than half an hr,0.7,no,no,0.4285714285714286,0.2727272727272727,yes,occasionally,sometimes,normal,0.0,0,quite often,no
+less than 40,Female,no,no,less than half an hr,0.6000000000000001,no,no,0.4285714285714286,0.36363636363636365,no,occasionally,sometimes,normal,0.0,0,quite often,no
+50-59,Male,no,no,less than half an hr,0.7666666666666666,no,no,0.2857142857142857,0.2727272727272727,yes,occasionally,sometimes,normal,0.0,0,quite often,no
+60 or older,Female,yes,no,less than half an hr,0.7666666666666666,no,no,0.1428571428571428,0.18181818181818182,yes,occasionally,very often,high,0.0,0,quite often,yes
+60 or older,Male,no,yes,less than half an hr,0.6000000000000001,no,no,0.2857142857142857,0.18181818181818182,yes,occasionally,very often,high,0.0,0,quite often,yes
+less than 40,Female,no,no,less than half an hr,0.6000000000000001,no,no,0.5714285714285714,0.2727272727272727,no,occasionally,sometimes,normal,0.0,0,quite often,no
+less than 40,Female,yes,yes,more than half an hr,0.7666666666666666,no,no,0.5714285714285714,0.36363636363636365,yes,occasionally,sometimes,normal,0.0,0,quite often,no
+less than 40,Male,yes,no,less than half an hr,0.5666666666666667,no,no,0.2857142857142857,0.36363636363636365,no,often,sometimes,normal,0.0,0,quite often,no
+less than 40,Male,no,no,more than half an hr,0.6000000000000001,no,no,0.5714285714285714,0.2727272727272727,no,often,sometimes,normal,0.0,0,quite often,no
+40-49,Female,yes,no,none,0.23333333333333328,no,no,0.857142857142857,0.9090909090909092,yes,occasionally,always,normal,0.5,0,not much,no
+40-49,Male,yes,no,none,0.33333333333333337,no,no,0.5714285714285714,0.7272727272727273,no,occasionally,sometimes,normal,0.0,0,not much,yes
+60 or older,Female,yes,yes,more than half an hr,0.2666666666666666,no,no,0.7142857142857142,0.8181818181818182,yes,occasionally,always,high,0.75,0,quite often,yes
+60 or older,Female,yes,yes,less than half an hr,0.4,no,no,0.4285714285714286,0.6363636363636364,yes,occasionally,sometimes,high,0.75,0,quite often,yes
+60 or older,Male,yes,yes,more than half an hr,0.30000000000000004,no,yes,0.4285714285714286,0.6363636363636364,yes,occasionally,always,high,0.0,0,not much,yes
+less than 40,Female,yes,no,none,0.09999999999999998,no,no,0.5714285714285714,0.7272727272727273,yes,often,sometimes,normal,0.0,0,not much,no
+less than 40,Female,yes,no,none,0.16666666666666663,no,no,0.7142857142857142,0.8181818181818182,no,often,sometimes,normal,0.0,0,not much,no
+less than 40,Female,no,no,more than half an hr,0.1333333333333333,no,no,0.4285714285714286,0.6363636363636364,no,occasionally,sometimes,normal,0.0,0,not much,no
+less than 40,Male,yes,no,one hr or more,0.43333333333333335,yes,yes,0.4285714285714286,0.6363636363636364,no,often,not at all,normal,0.0,0,not much,yes
+less than 40,Female,no,no,less than half an hr,0.1333333333333333,no,no,0.5714285714285714,0.7272727272727273,no,occasionally,sometimes,normal,0.0,0,not much,no
+less than 40,Male,no,no,more than half an hr,0.33333333333333337,yes,yes,0.4285714285714286,0.4545454545454546,no,often,sometimes,normal,0.0,0,quite often,no
+less than 40,Male,no,no,less than half an hr,0.33333333333333337,no,yes,0.4285714285714286,0.6363636363636364,no,often,sometimes,normal,0.0,0,not much,no
+less than 40,Male,no,no,less than half an hr,0.30000000000000004,yes,yes,0.857142857142857,0.6363636363636364,no,always,always,normal,0.0,0,not much,no
+less than 40,Male,yes,yes,more than half an hr,0.4,no,no,0.4285714285714286,0.4545454545454546,no,occasionally,sometimes,high,0.0,0,not much,no
+less than 40,Male,yes,no,more than half an hr,0.1333333333333333,yes,yes,0.4285714285714286,0.4545454545454546,no,occasionally,not at all,normal,0.0,0,not much,no
+less than 40,Male,no,no,none,0.33333333333333337,yes,yes,0.857142857142857,0.9090909090909092,no,often,very often,normal,0.0,0,quite often,no
+less than 40,Male,no,no,less than half an hr,0.43333333333333335,no,no,0.5714285714285714,0.7272727272727273,yes,occasionally,sometimes,normal,0.0,0,quite often,no
+less than 40,Male,yes,no,one hr or more,0.33333333333333337,no,no,0.1428571428571428,0.4545454545454546,no,occasionally,sometimes,normal,0.0,0,not much,no
+less than 40,Male,yes,no,more than half an hr,0.30000000000000004,no,no,0.2857142857142857,0.4545454545454546,no,occasionally,sometimes,normal,0.0,0,not much,no
+less than 40,Female,yes,no,less than half an hr,0.19999999999999996,no,no,0.5714285714285714,0.6363636363636364,no,often,sometimes,normal,0.0,0,not much,no
+less than 40,Female,yes,no,more than half an hr,0.2666666666666666,no,no,0.7142857142857142,0.7272727272727273,no,often,sometimes,normal,0.0,0,not much,no
+less than 40,Male,no,yes,less than half an hr,0.43333333333333335,yes,yes,0.5714285714285714,0.36363636363636365,no,always,always,normal,0.0,0,not much,no
+less than 40,Male,no,no,less than half an hr,0.16666666666666663,no,no,0.4285714285714286,0.36363636363636365,no,often,sometimes,normal,0.0,0,quite often,no
+less than 40,Male,no,no,more than half an hr,0.09999999999999998,no,no,0.2857142857142857,0.09090909090909091,no,always,sometimes,normal,0.0,0,quite often,no
+less than 40,Male,no,no,one hr or more,0.33333333333333337,no,no,0.2857142857142857,0.5454545454545454,no,always,always,normal,0.0,0,not much,no
+less than 40,Male,yes,yes,less than half an hr,0.43333333333333335,no,no,0.2857142857142857,0.18181818181818182,no,occasionally,not at all,high,0.0,0,quite often,no
+less than 40,Male,yes,no,less than half an hr,0.4,yes,yes,0.2857142857142857,0.5454545454545454,no,always,sometimes,normal,0.0,0,quite often,no
+less than 40,Male,no,no,less than half an hr,0.16666666666666663,no,no,0.5714285714285714,0.5454545454545454,no,always,not at all,normal,0.0,0,not much,no
+less than 40,Male,yes,no,less than half an hr,0.16666666666666663,no,no,0.4285714285714286,0.36363636363636365,no,often,sometimes,normal,0.0,0,quite often,no
+less than 40,Male,no,yes,one hr or more,0.06666666666666665,no,no,0.5714285714285714,0.0,no,occasionally,not at all,normal,0.0,0,not much,no
+less than 40,Male,no,yes,less than half an hr,0.4666666666666667,no,no,0.2857142857142857,0.36363636363636365,no,very often,sometimes,normal,0.0,0,quite often,no
+less than 40,Male,no,no,more than half an hr,0.19999999999999996,no,no,0.4285714285714286,0.36363636363636365,no,occasionally,sometimes,normal,0.0,0,quite often,no
+less than 40,Male,yes,no,less than half an hr,0.4666666666666667,no,no,0.5714285714285714,0.6363636363636364,no,often,sometimes,low,0.0,0,not much,no
+less than 40,Male,yes,yes,more than half an hr,0.4666666666666667,no,yes,0.2857142857142857,0.36363636363636365,no,occasionally,sometimes,normal,0.0,0,quite often,no
+less than 40,Male,yes,no,more than half an hr,0.30000000000000004,yes,yes,0.5714285714285714,0.7272727272727273,no,occasionally,sometimes,high,0.0,0,not much,no
+less than 40,Male,yes,no,less than half an hr,0.2666666666666666,no,no,0.1428571428571428,0.4545454545454546,no,always,sometimes,normal,0.0,0,not much,no
+less than 40,Male,yes,no,less than half an hr,0.2666666666666666,no,no,0.1428571428571428,0.4545454545454546,no,occasionally,not at all,normal,0.0,0,not much,no
+less than 40,Female,yes,no,more than half an hr,0.4666666666666667,no,no,0.2857142857142857,0.2727272727272727,no,occasionally,sometimes,normal,0.0,0,quite often,no
+less than 40,Female,no,no,none,0.1333333333333333,no,no,0.7142857142857142,0.4545454545454546,no,very often,sometimes,normal,0.5,0,not much,no
+less than 40,Male,no,no,less than half an hr,0.2666666666666666,yes,yes,0.5714285714285714,0.5454545454545454,no,very often,sometimes,normal,0.0,0,not much,no
+less than 40,Male,no,no,one hr or more,0.06666666666666665,no,no,0.2857142857142857,0.5454545454545454,no,often,sometimes,normal,0.0,0,not much,no
+50-59,Female,yes,no,one hr or more,0.2666666666666666,no,no,0.2857142857142857,0.4545454545454546,no,occasionally,sometimes,high,0.5,0,not much,no
+40-49,Male,yes,no,less than half an hr,0.30000000000000004,no,no,0.4285714285714286,0.4545454545454546,no,occasionally,sometimes,normal,0.0,0,not much,no
+less than 40,Female,yes,no,less than half an hr,0.33333333333333337,no,no,0.5714285714285714,0.36363636363636365,yes,occasionally,sometimes,normal,0.0,0,not much,no
+50-59,Female,yes,no,less than half an hr,0.6666666666666667,no,no,0.5714285714285714,0.4545454545454546,yes,often,very often,normal,0.5,0,quite often,yes
+40-49,Female,yes,yes,more than half an hr,0.6000000000000001,no,no,0.4285714285714286,0.18181818181818182,yes,occasionally,sometimes,high,0.0,0,quite often,yes
+40-49,Female,yes,no,one hr or more,0.6333333333333333,no,no,0.2857142857142857,0.18181818181818182,yes,always,very often,normal,0.0,0,quite often,yes
+50-59,Male,yes,yes,more than half an hr,0.7,yes,no,0.2857142857142857,0.36363636363636365,yes,often,very often,high,0.0,0,not much,yes
+60 or older,Male,no,no,less than half an hr,0.5,no,yes,0.2857142857142857,0.18181818181818182,yes,often,always,high,0.0,0,not much,yes
+less than 40,Male,yes,no,one hr or more,0.43333333333333335,yes,yes,0.1428571428571428,0.2727272727272727,yes,always,always,normal,0.0,0,quite often,yes
+40-49,Male,yes,yes,less than half an hr,0.6666666666666667,yes,yes,0.1428571428571428,0.18181818181818182,yes,very often,sometimes,high,0.0,0,not much,yes
+40-49,Male,no,no,one hr or more,0.30000000000000004,no,yes,0.2857142857142857,0.4545454545454546,no,occasionally,not at all,normal,0.0,0,not much,no
+50-59,Female,no,yes,one hr or more,0.23333333333333328,no,no,0.5714285714285714,0.4545454545454546,yes,occasionally,always,normal,0.75,0,not much,yes
+less than 40,Male,no,no,less than half an hr,0.5,no,yes,0.5714285714285714,0.7272727272727273,yes,occasionally,sometimes,normal,0.0,0,not much,yes
+40-49,Male,yes,yes,one hr or more,0.23333333333333328,no,no,0.4285714285714286,0.5454545454545454,yes,occasionally,sometimes,high,0.0,0,not much,yes
+less than 40,Male,yes,no,more than half an hr,0.33333333333333337,no,no,0.5714285714285714,0.5454545454545454,no,often,sometimes,normal,0.0,0,not much,yes
+60 or older,Male,yes,yes,more than half an hr,0.4,no,no,0.2857142857142857,0.4545454545454546,yes,occasionally,sometimes,high,0.0,0,quite often,yes
+60 or older,Male,no,yes,none,0.2666666666666666,no,no,0.2857142857142857,0.4545454545454546,yes,occasionally,sometimes,high,0.0,0,not much,no
+60 or older,Male,no,yes,less than half an hr,0.4,no,yes,0.2857142857142857,0.4545454545454546,yes,occasionally,very often,high,0.0,0,not much,no
+60 or older,Female,yes,yes,one hr or more,0.5,no,no,0.4285714285714286,0.36363636363636365,yes,occasionally,sometimes,high,0.5,0,quite often,yes
